@@ -48,3 +48,9 @@ def get_tvshow(tmdb_id):
         db_utils.cache_tvshow(tmdb_id, tvshow_data['name'], tvshow_data['first_air_date'][:4], tvshow_data)
         return tvshow_data
     return None
+
+
+import db_utils
+
+def main():
+    db_utils.init_db()
