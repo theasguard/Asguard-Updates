@@ -33,7 +33,6 @@ logger = log_utils.Logger.get_logger()
 
 BASE_URL = 'https://example.com'
 LOCAL_UA = 'Asguard for Kodi/%s' % (kodi.get_version())
-FLARESOLVERR_URL = 'http://localhost:8191/v1'
 MAX_RESPONSE = 1024 * 1024 * 5
 CF_CAPCHA_ENABLED = kodi.get_setting('cf_captcha') == 'true'
 
