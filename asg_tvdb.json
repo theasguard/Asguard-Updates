@@ -1,574 +1,7 @@
 {
   "version": "1.0",
-  "last_updated": "2025-10-17T19:50:22.058685+00:00",
+  "last_updated": "2025-10-17T21:16:36.760709+00:00",
   "entries": {
-    "tmdb_603": {
-      "title": "The Matrix",
-      "year": 1999,
-      "tmdb_id": 603,
-      "trakt_id": 481,
-      "tvdb_id": 77013
-    },
-    "trakt_481": {
-      "title": "The Matrix",
-      "year": 1999,
-      "tmdb_id": 603,
-      "trakt_id": 481,
-      "tvdb_id": 77013
-    },
-    "tvdb_77013": {
-      "title": "The Matrix",
-      "year": 1999,
-      "tmdb_id": 603,
-      "trakt_id": 481,
-      "tvdb_id": 77013
-    },
-    "tmdb_4935": {
-      "title": "Howl's Moving Castle",
-      "year": 2004,
-      "tmdb_id": 4935,
-      "trakt_id": 2870,
-      "tvdb_id": 71196
-    },
-    "trakt_2870": {
-      "title": "Howl's Moving Castle",
-      "year": 2004,
-      "tmdb_id": 4935,
-      "trakt_id": 2870,
-      "tvdb_id": 71196
-    },
-    "tvdb_71196": {
-      "title": "Howl's Moving Castle",
-      "year": 2004,
-      "tmdb_id": 4935,
-      "trakt_id": 2870,
-      "tvdb_id": 71196
-    },
-    "tmdb_8392": {
-      "title": "My Neighbor Totoro",
-      "year": 1988,
-      "tmdb_id": 8392,
-      "trakt_id": 4169,
-      "tvdb_id": 417672
-    },
-    "trakt_4169": {
-      "title": "My Neighbor Totoro",
-      "year": 1988,
-      "tmdb_id": 8392,
-      "trakt_id": 4169,
-      "tvdb_id": 417672
-    },
-    "tvdb_417672": {
-      "title": "My Neighbor Totoro",
-      "year": 1988,
-      "tmdb_id": 8392,
-      "trakt_id": 4169,
-      "tvdb_id": 417672
-    },
-    "tmdb_4977": {
-      "title": "Paprika",
-      "year": 2006,
-      "tmdb_id": 4977,
-      "trakt_id": 2909,
-      "tvdb_id": 77734
-    },
-    "trakt_2909": {
-      "title": "Paprika",
-      "year": 2006,
-      "tmdb_id": 4977,
-      "trakt_id": 2909,
-      "tvdb_id": 77734
-    },
-    "tvdb_77734": {
-      "title": "Paprika",
-      "year": 2006,
-      "tmdb_id": 4977,
-      "trakt_id": 2909,
-      "tvdb_id": 77734
-    },
-    "tmdb_157336": {
-      "title": "Interstellar",
-      "year": 2014,
-      "tmdb_id": 157336,
-      "trakt_id": 102156,
-      "tvdb_id": 365042
-    },
-    "trakt_102156": {
-      "title": "Interstellar",
-      "year": 2014,
-      "tmdb_id": 157336,
-      "trakt_id": 102156,
-      "tvdb_id": 365042
-    },
-    "tvdb_365042": {
-      "title": "Interstellar",
-      "year": 2014,
-      "tmdb_id": 157336,
-      "trakt_id": 102156,
-      "tvdb_id": 365042
-    },
-    "tmdb_671": {
-      "title": "Harry Potter and the Philosopher's Stone",
-      "year": 2001,
-      "tmdb_id": 671,
-      "trakt_id": 545,
-      "tvdb_id": 77102
-    },
-    "trakt_545": {
-      "title": "Harry Potter and the Philosopher's Stone",
-      "year": 2001,
-      "tmdb_id": 671,
-      "trakt_id": 545,
-      "tvdb_id": 77102
-    },
-    "tvdb_77102": {
-      "title": "Harry Potter and the Philosopher's Stone",
-      "year": 2001,
-      "tmdb_id": 671,
-      "trakt_id": 545,
-      "tvdb_id": 77102
-    },
-    "tmdb_155": {
-      "title": "3rd Rock from the Sun",
-      "year": 1996,
-      "tmdb_id": 155,
-      "trakt_id": 154,
-      "tvdb_id": 72389
-    },
-    "trakt_120": {
-      "title": "Doctor Who",
-      "year": 1963,
-      "tmdb_id": 121,
-      "trakt_id": 120,
-      "tvdb_id": 76107
-    },
-    "tvdb_72389": {
-      "title": "3rd Rock from the Sun",
-      "year": 1996,
-      "tmdb_id": 155,
-      "trakt_id": 154,
-      "tvdb_id": 72389
-    },
-    "tmdb_672": {
-      "title": "Harry Potter and the Chamber of Secrets",
-      "year": 2002,
-      "tmdb_id": 672,
-      "trakt_id": 546,
-      "tvdb_id": 73729
-    },
-    "trakt_546": {
-      "title": "Harry Potter and the Chamber of Secrets",
-      "year": 2002,
-      "tmdb_id": 672,
-      "trakt_id": 546,
-      "tvdb_id": 73729
-    },
-    "tvdb_73729": {
-      "title": "Harry Potter and the Chamber of Secrets",
-      "year": 2002,
-      "tmdb_id": 672,
-      "trakt_id": 546,
-      "tvdb_id": 73729
-    },
-    "tmdb_27205": {
-      "title": "Inception",
-      "year": 2010,
-      "tmdb_id": 27205,
-      "trakt_id": 16662,
-      "tvdb_id": 113291
-    },
-    "trakt_16662": {
-      "title": "Inception",
-      "year": 2010,
-      "tmdb_id": 27205,
-      "trakt_id": 16662,
-      "tvdb_id": 113291
-    },
-    "tvdb_113291": {
-      "title": "Inception",
-      "year": 2010,
-      "tmdb_id": 27205,
-      "trakt_id": 16662,
-      "tvdb_id": 113291
-    },
-    "tmdb_120": {
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "year": 2001,
-      "tmdb_id": 120,
-      "trakt_id": 88,
-      "tvdb_id": 263338
-    },
-    "trakt_88": {
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "year": 2001,
-      "tmdb_id": 120,
-      "trakt_id": 88,
-      "tvdb_id": 263338
-    },
-    "tvdb_263338": {
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "year": 2001,
-      "tmdb_id": 120,
-      "trakt_id": 88,
-      "tvdb_id": 263338
-    },
-    "tmdb_121": {
-      "title": "Doctor Who",
-      "year": 1963,
-      "tmdb_id": 121,
-      "trakt_id": 120,
-      "tvdb_id": 76107
-    },
-    "trakt_89": {
-      "title": "Mayday",
-      "year": 2003,
-      "tmdb_id": 90,
-      "trakt_id": 89,
-      "tvdb_id": 79771
-    },
-    "tvdb_76107": {
-      "title": "Doctor Who",
-      "year": 1963,
-      "tmdb_id": 121,
-      "trakt_id": 120,
-      "tvdb_id": 76107
-    },
-    "tmdb_299536": {
-      "title": "Avengers: Infinity War",
-      "year": 2018,
-      "tmdb_id": 299536,
-      "trakt_id": 191797,
-      "tvdb_id": 412877
-    },
-    "trakt_191797": {
-      "title": "Avengers: Infinity War",
-      "year": 2018,
-      "tmdb_id": 299536,
-      "trakt_id": 191797,
-      "tvdb_id": 412877
-    },
-    "tvdb_412877": {
-      "title": "Avengers: Infinity War",
-      "year": 2018,
-      "tmdb_id": 299536,
-      "trakt_id": 191797,
-      "tvdb_id": 412877
-    },
-    "tmdb_767": {
-      "title": "Harry Potter and the Half-Blood Prince",
-      "year": 2009,
-      "tmdb_id": 767,
-      "trakt_id": 610,
-      "tvdb_id": 377967
-    },
-    "trakt_610": {
-      "title": "Harry Potter and the Half-Blood Prince",
-      "year": 2009,
-      "tmdb_id": 767,
-      "trakt_id": 610,
-      "tvdb_id": 377967
-    },
-    "tvdb_377967": {
-      "title": "Harry Potter and the Half-Blood Prince",
-      "year": 2009,
-      "tmdb_id": 767,
-      "trakt_id": 610,
-      "tvdb_id": 377967
-    },
-    "tmdb_97": {
-      "title": "Tron",
-      "year": 1982,
-      "tmdb_id": 97,
-      "trakt_id": 66,
-      "tvdb_id": 71355
-    },
-    "trakt_66": {
-      "title": "Tron",
-      "year": 1982,
-      "tmdb_id": 97,
-      "trakt_id": 66,
-      "tvdb_id": 71355
-    },
-    "tvdb_71355": {
-      "title": "Tron",
-      "year": 1982,
-      "tmdb_id": 97,
-      "trakt_id": 66,
-      "tvdb_id": 71355
-    },
-    "tmdb_293660": {
-      "title": "Deadpool",
-      "year": 2016,
-      "tmdb_id": 293660,
-      "trakt_id": 190430,
-      "tvdb_id": 411792
-    },
-    "trakt_190430": {
-      "title": "Deadpool",
-      "year": 2016,
-      "tmdb_id": 293660,
-      "trakt_id": 190430,
-      "tvdb_id": 411792
-    },
-    "tvdb_411792": {
-      "title": "Deadpool",
-      "year": 2016,
-      "tmdb_id": 293660,
-      "trakt_id": 190430,
-      "tvdb_id": 411792
-    },
-    "tmdb_122": {
-      "title": "The Lord of the Rings: The Return of the King",
-      "year": 2003,
-      "tmdb_id": 122,
-      "trakt_id": 90,
-      "tvdb_id": 78429
-    },
-    "trakt_90": {
-      "title": "The Lord of the Rings: The Return of the King",
-      "year": 2003,
-      "tmdb_id": 122,
-      "trakt_id": 90,
-      "tvdb_id": 78429
-    },
-    "tvdb_78429": {
-      "title": "The Lord of the Rings: The Return of the King",
-      "year": 2003,
-      "tmdb_id": 122,
-      "trakt_id": 90,
-      "tvdb_id": 78429
-    },
-    "tmdb_673": {
-      "title": "Harry Potter and the Prisoner of Azkaban",
-      "year": 2004,
-      "tmdb_id": 673,
-      "trakt_id": 547,
-      "tvdb_id": 72297
-    },
-    "trakt_547": {
-      "title": "Harry Potter and the Prisoner of Azkaban",
-      "year": 2004,
-      "tmdb_id": 673,
-      "trakt_id": 547,
-      "tvdb_id": 72297
-    },
-    "tvdb_72297": {
-      "title": "Harry Potter and the Prisoner of Azkaban",
-      "year": 2004,
-      "tmdb_id": 673,
-      "trakt_id": 547,
-      "tvdb_id": 72297
-    },
-    "tmdb_245891": {
-      "title": "John Wick",
-      "year": 2014,
-      "tmdb_id": 245891,
-      "trakt_id": 149640,
-      "tvdb_id": 276466
-    },
-    "trakt_149640": {
-      "title": "John Wick",
-      "year": 2014,
-      "tmdb_id": 245891,
-      "trakt_id": 149640,
-      "tvdb_id": 276466
-    },
-    "tvdb_276466": {
-      "title": "John Wick",
-      "year": 2014,
-      "tmdb_id": 245891,
-      "trakt_id": 149640,
-      "tvdb_id": 276466
-    },
-    "tmdb_674": {
-      "title": "Harry Potter and the Goblet of Fire",
-      "year": 2005,
-      "tmdb_id": 674,
-      "trakt_id": 548,
-      "tvdb_id": 72368
-    },
-    "trakt_548": {
-      "title": "Law & Order",
-      "year": 1990,
-      "tmdb_id": 549,
-      "trakt_id": 548,
-      "tvdb_id": 72368
-    },
-    "tvdb_72368": {
-      "title": "Law & Order",
-      "year": 1990,
-      "tmdb_id": 549,
-      "trakt_id": 548,
-      "tvdb_id": 72368
-    },
-    "tmdb_10439": {
-      "title": "Hocus Pocus",
-      "year": 1993,
-      "tmdb_id": 10439,
-      "trakt_id": 5631,
-      "tvdb_id": 74616
-    },
-    "trakt_5631": {
-      "title": "Hocus Pocus",
-      "year": 1993,
-      "tmdb_id": 10439,
-      "trakt_id": 5631,
-      "tvdb_id": 74616
-    },
-    "tvdb_74616": {
-      "title": "Hocus Pocus",
-      "year": 1993,
-      "tmdb_id": 10439,
-      "trakt_id": 5631,
-      "tvdb_id": 74616
-    },
-    "tmdb_24428": {
-      "title": "The Avengers",
-      "year": 2012,
-      "tmdb_id": 24428,
-      "trakt_id": 14701,
-      "tvdb_id": 110341
-    },
-    "trakt_14701": {
-      "title": "The Avengers",
-      "year": 2012,
-      "tmdb_id": 24428,
-      "trakt_id": 14701,
-      "tvdb_id": 110341
-    },
-    "tvdb_110341": {
-      "title": "The Avengers",
-      "year": 2012,
-      "tmdb_id": 24428,
-      "trakt_id": 14701,
-      "tvdb_id": 110341
-    },
-    "tmdb_675": {
-      "title": "Harry Potter and the Order of the Phoenix",
-      "year": 2007,
-      "tmdb_id": 675,
-      "trakt_id": 549,
-      "tvdb_id": 84207
-    },
-    "trakt_549": {
-      "title": "Harry Potter and the Order of the Phoenix",
-      "year": 2007,
-      "tmdb_id": 675,
-      "trakt_id": 549,
-      "tvdb_id": 84207
-    },
-    "tvdb_84207": {
-      "title": "Harry Potter and the Order of the Phoenix",
-      "year": 2007,
-      "tmdb_id": 675,
-      "trakt_id": 549,
-      "tvdb_id": 84207
-    },
-    "tmdb_9479": {
-      "title": "The Nightmare Before Christmas",
-      "year": 1993,
-      "tmdb_id": 9479,
-      "trakt_id": 4765,
-      "tvdb_id": 70337
-    },
-    "trakt_4765": {
-      "title": "The Nightmare Before Christmas",
-      "year": 1993,
-      "tmdb_id": 9479,
-      "trakt_id": 4765,
-      "tvdb_id": 70337
-    },
-    "tvdb_70337": {
-      "title": "The Nightmare Before Christmas",
-      "year": 1993,
-      "tmdb_id": 9479,
-      "trakt_id": 4765,
-      "tvdb_id": 70337
-    },
-    "tmdb_550": {
-      "title": "Fight Club",
-      "year": 1999,
-      "tmdb_id": 550,
-      "trakt_id": 432,
-      "tvdb_id": 76766
-    },
-    "trakt_432": {
-      "title": "Fight Club",
-      "year": 1999,
-      "tmdb_id": 550,
-      "trakt_id": 432,
-      "tvdb_id": 76766
-    },
-    "tvdb_76766": {
-      "title": "Fight Club",
-      "year": 1999,
-      "tmdb_id": 550,
-      "trakt_id": 432,
-      "tvdb_id": 76766
-    },
-    "tmdb_106646": {
-      "title": "The Wolf of Wall Street",
-      "year": 2013,
-      "tmdb_id": 106646,
-      "trakt_id": 75735,
-      "tvdb_id": 277896
-    },
-    "trakt_75735": {
-      "title": "The Wolf of Wall Street",
-      "year": 2013,
-      "tmdb_id": 106646,
-      "trakt_id": 75735,
-      "tvdb_id": 277896
-    },
-    "tvdb_277896": {
-      "title": "The Wolf of Wall Street",
-      "year": 2013,
-      "tmdb_id": 106646,
-      "trakt_id": 75735,
-      "tvdb_id": 277896
-    },
-    "tmdb_274": {
-      "title": "The Silence of the Lambs",
-      "year": 1991,
-      "tmdb_id": 274,
-      "trakt_id": 230,
-      "tvdb_id": 433780
-    },
-    "trakt_230": {
-      "title": "The Silence of the Lambs",
-      "year": 1991,
-      "tmdb_id": 274,
-      "trakt_id": 230,
-      "tvdb_id": 433780
-    },
-    "tvdb_433780": {
-      "title": "The Silence of the Lambs",
-      "year": 1991,
-      "tmdb_id": 274,
-      "trakt_id": 230,
-      "tvdb_id": 433780
-    },
-    "tmdb_862": {
-      "title": "Toy Story",
-      "year": 1995,
-      "tmdb_id": 862,
-      "trakt_id": 705,
-      "tvdb_id": 77607
-    },
-    "trakt_705": {
-      "title": "Toy Story",
-      "year": 1995,
-      "tmdb_id": 862,
-      "trakt_id": 705,
-      "tvdb_id": 77607
-    },
-    "tvdb_77607": {
-      "title": "Toy Story",
-      "year": 1995,
-      "tmdb_id": 862,
-      "trakt_id": 705,
-      "tvdb_id": 77607
-    },
     "tmdb_128": {
       "title": "Princess Mononoke",
       "year": 1997,
@@ -28752,6 +28185,258 @@
       "tmdb_id": 230915,
       "trakt_id": 216695,
       "tvdb_id": 462780
+    },
+    "tmdb_253376": {
+      "title": "The Girlfriend",
+      "year": 2025,
+      "tmdb_id": 253376,
+      "trakt_id": 237946,
+      "tvdb_id": 449706
+    },
+    "trakt_237946": {
+      "title": "The Girlfriend",
+      "year": 2025,
+      "tmdb_id": 253376,
+      "trakt_id": 237946,
+      "tvdb_id": 449706
+    },
+    "tvdb_449706": {
+      "title": "The Girlfriend",
+      "year": 2025,
+      "tmdb_id": 253376,
+      "trakt_id": 237946,
+      "tvdb_id": 449706
+    },
+    "tmdb_10222": {
+      "title": "The Real Housewives of Orange County",
+      "year": 2006,
+      "tmdb_id": 10222,
+      "trakt_id": 10173,
+      "tvdb_id": 80117
+    },
+    "trakt_10173": {
+      "title": "The Real Housewives of Orange County",
+      "year": 2006,
+      "tmdb_id": 10222,
+      "trakt_id": 10173,
+      "tvdb_id": 80117
+    },
+    "tvdb_80117": {
+      "title": "The Real Housewives of Orange County",
+      "year": 2006,
+      "tmdb_id": 10222,
+      "trakt_id": 10173,
+      "tvdb_id": 80117
+    },
+    "tmdb_12271": {
+      "title": "The Block",
+      "year": 2003,
+      "tmdb_id": 12271,
+      "trakt_id": 12218,
+      "tvdb_id": 74768
+    },
+    "trakt_12218": {
+      "title": "The Block",
+      "year": 2003,
+      "tmdb_id": 12271,
+      "trakt_id": 12218,
+      "tvdb_id": 74768
+    },
+    "tvdb_74768": {
+      "title": "The Block",
+      "year": 2003,
+      "tmdb_id": 12271,
+      "trakt_id": 12218,
+      "tvdb_id": 74768
+    },
+    "tmdb_57532": {
+      "title": "PAW Patrol",
+      "year": 2013,
+      "tmdb_id": 57532,
+      "trakt_id": 57161,
+      "tvdb_id": 272472
+    },
+    "trakt_57161": {
+      "title": "PAW Patrol",
+      "year": 2013,
+      "tmdb_id": 57532,
+      "trakt_id": 57161,
+      "tvdb_id": 272472
+    },
+    "tvdb_272472": {
+      "title": "PAW Patrol",
+      "year": 2013,
+      "tmdb_id": 57532,
+      "trakt_id": 57161,
+      "tvdb_id": 272472
+    },
+    "tmdb_33907": {
+      "title": "Downton Abbey",
+      "year": 2010,
+      "tmdb_id": 33907,
+      "trakt_id": 33760,
+      "tvdb_id": 193131
+    },
+    "trakt_33760": {
+      "title": "Downton Abbey",
+      "year": 2010,
+      "tmdb_id": 33907,
+      "trakt_id": 33760,
+      "tvdb_id": 193131
+    },
+    "tvdb_193131": {
+      "title": "Downton Abbey",
+      "year": 2010,
+      "tmdb_id": 33907,
+      "trakt_id": 33760,
+      "tvdb_id": 193131
+    },
+    "tmdb_237243": {
+      "title": "Big Brother",
+      "year": 2023,
+      "tmdb_id": 237243,
+      "trakt_id": 211405,
+      "tvdb_id": 440642
+    },
+    "trakt_211405": {
+      "title": "Big Brother",
+      "year": 2023,
+      "tmdb_id": 237243,
+      "trakt_id": 211405,
+      "tvdb_id": 440642
+    },
+    "tvdb_440642": {
+      "title": "Big Brother",
+      "year": 2023,
+      "tmdb_id": 237243,
+      "trakt_id": 211405,
+      "tvdb_id": 440642
+    },
+    "tmdb_62649": {
+      "title": "Superstore",
+      "year": 2015,
+      "tmdb_id": 62649,
+      "trakt_id": 98985,
+      "tvdb_id": 295648
+    },
+    "trakt_98985": {
+      "title": "Superstore",
+      "year": 2015,
+      "tmdb_id": 62649,
+      "trakt_id": 98985,
+      "tvdb_id": 295648
+    },
+    "tvdb_295648": {
+      "title": "Superstore",
+      "year": 2015,
+      "tmdb_id": 62649,
+      "trakt_id": 98985,
+      "tvdb_id": 295648
+    },
+    "tmdb_4238": {
+      "title": "The King of Queens",
+      "year": 1998,
+      "tmdb_id": 4238,
+      "trakt_id": 4214,
+      "tvdb_id": 73641
+    },
+    "trakt_4214": {
+      "title": "The King of Queens",
+      "year": 1998,
+      "tmdb_id": 4238,
+      "trakt_id": 4214,
+      "tvdb_id": 73641
+    },
+    "tvdb_73641": {
+      "title": "The King of Queens",
+      "year": 1998,
+      "tmdb_id": 4238,
+      "trakt_id": 4214,
+      "tvdb_id": 73641
+    },
+    "tmdb_90046": {
+      "title": "90 Day Fiancé: The Other Way",
+      "year": 2019,
+      "tmdb_id": 90046,
+      "trakt_id": 147674,
+      "tvdb_id": 363769
+    },
+    "trakt_147674": {
+      "title": "90 Day Fiancé: The Other Way",
+      "year": 2019,
+      "tmdb_id": 90046,
+      "trakt_id": 147674,
+      "tvdb_id": 363769
+    },
+    "tvdb_363769": {
+      "title": "90 Day Fiancé: The Other Way",
+      "year": 2019,
+      "tmdb_id": 90046,
+      "trakt_id": 147674,
+      "tvdb_id": 363769
+    },
+    "tmdb_157741": {
+      "title": "Landman",
+      "year": 2024,
+      "tmdb_id": 157741,
+      "trakt_id": 174314,
+      "tvdb_id": 397424
+    },
+    "trakt_174314": {
+      "title": "Landman",
+      "year": 2024,
+      "tmdb_id": 157741,
+      "trakt_id": 174314,
+      "tvdb_id": 397424
+    },
+    "tvdb_397424": {
+      "title": "Landman",
+      "year": 2024,
+      "tmdb_id": 157741,
+      "trakt_id": 174314,
+      "tvdb_id": 397424
+    },
+    "tmdb_138971": {
+      "title": "Billy the Kid",
+      "year": 2022,
+      "tmdb_id": 138971,
+      "trakt_id": 191283,
+      "tvdb_id": 402256
+    },
+    "trakt_191283": {
+      "title": "Billy the Kid",
+      "year": 2022,
+      "tmdb_id": 138971,
+      "trakt_id": 191283,
+      "tvdb_id": 402256
+    },
+    "tvdb_402256": {
+      "title": "Billy the Kid",
+      "year": 2022,
+      "tmdb_id": 138971,
+      "trakt_id": 191283,
+      "tvdb_id": 402256
+    },
+    "tmdb_1104": {
+      "title": "Mad Men",
+      "year": 2007,
+      "tmdb_id": 1104,
+      "trakt_id": 1099,
+      "tvdb_id": 80337
+    },
+    "trakt_1099": {
+      "title": "Mad Men",
+      "year": 2007,
+      "tmdb_id": 1104,
+      "trakt_id": 1099,
+      "tvdb_id": 80337
+    },
+    "tvdb_80337": {
+      "title": "Mad Men",
+      "year": 2007,
+      "tmdb_id": 1104,
+      "trakt_id": 1099,
+      "tvdb_id": 80337
     }
   }
 }
