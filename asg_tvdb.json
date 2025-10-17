@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2025-10-17T18:51:17.782178+00:00",
+  "last_updated": "2025-10-17T18:53:00.469772+00:00",
   "entries": {
     "tmdb_603": {
       "title": "The Matrix",
@@ -23208,6 +23208,363 @@
       "tmdb_id": 115773,
       "trakt_id": 171228,
       "tvdb_id": 393865
+    },
+    "tmdb_15260": {
+      "title": "Adventure Time",
+      "year": 2010,
+      "tmdb_id": 15260,
+      "trakt_id": 15195,
+      "tvdb_id": 152831
+    },
+    "trakt_15195": {
+      "title": "Adventure Time",
+      "year": 2010,
+      "tmdb_id": 15260,
+      "trakt_id": 15195,
+      "tvdb_id": 152831
+    },
+    "tvdb_152831": {
+      "title": "Adventure Time",
+      "year": 2010,
+      "tmdb_id": 15260,
+      "trakt_id": 15195,
+      "tvdb_id": 152831
+    },
+    "tmdb_86248": {
+      "title": "Upload",
+      "year": 2020,
+      "tmdb_id": 86248,
+      "trakt_id": 158690,
+      "tvdb_id": 368211
+    },
+    "trakt_158690": {
+      "title": "Upload",
+      "year": 2020,
+      "tmdb_id": 86248,
+      "trakt_id": 158690,
+      "tvdb_id": 368211
+    },
+    "tvdb_368211": {
+      "title": "Upload",
+      "year": 2020,
+      "tmdb_id": 86248,
+      "trakt_id": 158690,
+      "tvdb_id": 368211
+    },
+    "tmdb_83631": {
+      "title": "What We Do in the Shadows",
+      "year": 2019,
+      "tmdb_id": 83631,
+      "trakt_id": 142927,
+      "tvdb_id": 358211
+    },
+    "trakt_142927": {
+      "title": "What We Do in the Shadows",
+      "year": 2019,
+      "tmdb_id": 83631,
+      "trakt_id": 142927,
+      "tvdb_id": 358211
+    },
+    "tvdb_358211": {
+      "title": "What We Do in the Shadows",
+      "year": 2019,
+      "tmdb_id": 83631,
+      "trakt_id": 142927,
+      "tvdb_id": 358211
+    },
+    "tmdb_37606": {
+      "title": "The Amazing World of Gumball",
+      "year": 2011,
+      "tmdb_id": 37606,
+      "trakt_id": 37448,
+      "tvdb_id": 248482
+    },
+    "trakt_37448": {
+      "title": "The Amazing World of Gumball",
+      "year": 2011,
+      "tmdb_id": 37606,
+      "trakt_id": 37448,
+      "tvdb_id": 248482
+    },
+    "tvdb_248482": {
+      "title": "The Amazing World of Gumball",
+      "year": 2011,
+      "tmdb_id": 37606,
+      "trakt_id": 37448,
+      "tvdb_id": 248482
+    },
+    "tmdb_228689": {
+      "title": "Genie, Make a Wish",
+      "year": 2025,
+      "tmdb_id": 228689,
+      "trakt_id": 229857,
+      "tvdb_id": 436068
+    },
+    "trakt_229857": {
+      "title": "Genie, Make a Wish",
+      "year": 2025,
+      "tmdb_id": 228689,
+      "trakt_id": 229857,
+      "tvdb_id": 436068
+    },
+    "tvdb_436068": {
+      "title": "Genie, Make a Wish",
+      "year": 2025,
+      "tmdb_id": 228689,
+      "trakt_id": 229857,
+      "tvdb_id": 436068
+    },
+    "tmdb_86831": {
+      "title": "Love, Death & Robots",
+      "year": 2019,
+      "tmdb_id": 86831,
+      "trakt_id": 142611,
+      "tvdb_id": 357888
+    },
+    "trakt_142611": {
+      "title": "Love, Death & Robots",
+      "year": 2019,
+      "tmdb_id": 86831,
+      "trakt_id": 142611,
+      "tvdb_id": 357888
+    },
+    "tvdb_357888": {
+      "title": "Love, Death & Robots",
+      "year": 2019,
+      "tmdb_id": 86831,
+      "trakt_id": 142611,
+      "tvdb_id": 357888
+    },
+    "tmdb_280945": {
+      "title": "Bon Appétit, Your Majesty",
+      "year": 2025,
+      "tmdb_id": 280945,
+      "trakt_id": 271932,
+      "tvdb_id": 454840
+    },
+    "trakt_271932": {
+      "title": "Bon Appétit, Your Majesty",
+      "year": 2025,
+      "tmdb_id": 280945,
+      "trakt_id": 271932,
+      "tvdb_id": 454840
+    },
+    "tvdb_454840": {
+      "title": "Bon Appétit, Your Majesty",
+      "year": 2025,
+      "tmdb_id": 280945,
+      "trakt_id": 271932,
+      "tvdb_id": 454840
+    },
+    "tmdb_32608": {
+      "title": "Ancient Aliens",
+      "year": 2010,
+      "tmdb_id": 32608,
+      "trakt_id": 32468,
+      "tvdb_id": 101501
+    },
+    "trakt_32468": {
+      "title": "Ancient Aliens",
+      "year": 2010,
+      "tmdb_id": 32608,
+      "trakt_id": 32468,
+      "tvdb_id": 101501
+    },
+    "tvdb_101501": {
+      "title": "Ancient Aliens",
+      "year": 2010,
+      "tmdb_id": 32608,
+      "trakt_id": 32468,
+      "tvdb_id": 101501
+    },
+    "tmdb_87917": {
+      "title": "For All Mankind",
+      "year": 2019,
+      "tmdb_id": 87917,
+      "trakt_id": 140481,
+      "tvdb_id": 356202
+    },
+    "trakt_140481": {
+      "title": "For All Mankind",
+      "year": 2019,
+      "tmdb_id": 87917,
+      "trakt_id": 140481,
+      "tvdb_id": 356202
+    },
+    "tvdb_356202": {
+      "title": "For All Mankind",
+      "year": 2019,
+      "tmdb_id": 87917,
+      "trakt_id": 140481,
+      "tvdb_id": 356202
+    },
+    "tmdb_253372": {
+      "title": "The Institute",
+      "year": 2025,
+      "tmdb_id": 253372,
+      "trakt_id": 238108,
+      "tvdb_id": 451177
+    },
+    "trakt_238108": {
+      "title": "The Institute",
+      "year": 2025,
+      "tmdb_id": 253372,
+      "trakt_id": 238108,
+      "tvdb_id": 451177
+    },
+    "tvdb_451177": {
+      "title": "The Institute",
+      "year": 2025,
+      "tmdb_id": 253372,
+      "trakt_id": 238108,
+      "tvdb_id": 451177
+    },
+    "tmdb_297286": {
+      "title": "I Saved Myself with a Potion!: Life in Another World",
+      "year": 2025,
+      "tmdb_id": 297286,
+      "trakt_id": 293631,
+      "tvdb_id": 466376
+    },
+    "trakt_293631": {
+      "title": "I Saved Myself with a Potion!: Life in Another World",
+      "year": 2025,
+      "tmdb_id": 297286,
+      "trakt_id": 293631,
+      "tvdb_id": 466376
+    },
+    "tvdb_466376": {
+      "title": "I Saved Myself with a Potion!: Life in Another World",
+      "year": 2025,
+      "tmdb_id": 297286,
+      "trakt_id": 293631,
+      "tvdb_id": 466376
+    },
+    "tmdb_262928": {
+      "title": "Love in the Clouds",
+      "year": 2025,
+      "tmdb_id": 262928,
+      "trakt_id": 253803,
+      "tvdb_id": 454392
+    },
+    "trakt_253803": {
+      "title": "Love in the Clouds",
+      "year": 2025,
+      "tmdb_id": 262928,
+      "trakt_id": 253803,
+      "tvdb_id": 454392
+    },
+    "tvdb_454392": {
+      "title": "Love in the Clouds",
+      "year": 2025,
+      "tmdb_id": 262928,
+      "trakt_id": 253803,
+      "tvdb_id": 454392
+    },
+    "tmdb_232230": {
+      "title": "Lord of Mysteries",
+      "year": 2025,
+      "tmdb_id": 232230,
+      "trakt_id": 207850,
+      "tvdb_id": 464419
+    },
+    "trakt_207850": {
+      "title": "Lord of Mysteries",
+      "year": 2025,
+      "tmdb_id": 232230,
+      "trakt_id": 207850,
+      "tvdb_id": 464419
+    },
+    "tvdb_464419": {
+      "title": "Lord of Mysteries",
+      "year": 2025,
+      "tmdb_id": 232230,
+      "trakt_id": 207850,
+      "tvdb_id": 464419
+    },
+    "tmdb_10545": {
+      "title": "True Blood",
+      "year": 2008,
+      "tmdb_id": 10545,
+      "trakt_id": 10494,
+      "tvdb_id": 82283
+    },
+    "trakt_10494": {
+      "title": "True Blood",
+      "year": 2008,
+      "tmdb_id": 10545,
+      "trakt_id": 10494,
+      "tvdb_id": 82283
+    },
+    "tvdb_82283": {
+      "title": "True Blood",
+      "year": 2008,
+      "tmdb_id": 10545,
+      "trakt_id": 10494,
+      "tvdb_id": 82283
+    },
+    "tmdb_85948": {
+      "title": "Star Trek: Lower Decks",
+      "year": 2020,
+      "tmdb_id": 85948,
+      "trakt_id": 138641,
+      "tvdb_id": 367138
+    },
+    "trakt_138641": {
+      "title": "Star Trek: Lower Decks",
+      "year": 2020,
+      "tmdb_id": 85948,
+      "trakt_id": 138641,
+      "tvdb_id": 367138
+    },
+    "tvdb_367138": {
+      "title": "Star Trek: Lower Decks",
+      "year": 2020,
+      "tmdb_id": 85948,
+      "trakt_id": 138641,
+      "tvdb_id": 367138
+    },
+    "tmdb_114471": {
+      "title": "Ironheart",
+      "year": 2025,
+      "tmdb_id": 114471,
+      "trakt_id": 170565,
+      "tvdb_id": 393204
+    },
+    "trakt_170565": {
+      "title": "Ironheart",
+      "year": 2025,
+      "tmdb_id": 114471,
+      "trakt_id": 170565,
+      "tvdb_id": 393204
+    },
+    "tvdb_393204": {
+      "title": "Ironheart",
+      "year": 2025,
+      "tmdb_id": 114471,
+      "trakt_id": 170565,
+      "tvdb_id": 393204
+    },
+    "tmdb_245026": {
+      "title": "Wizards Beyond Waverly Place",
+      "year": 2024,
+      "tmdb_id": 245026,
+      "trakt_id": 222547,
+      "tvdb_id": 447975
+    },
+    "trakt_222547": {
+      "title": "Wizards Beyond Waverly Place",
+      "year": 2024,
+      "tmdb_id": 245026,
+      "trakt_id": 222547,
+      "tvdb_id": 447975
+    },
+    "tvdb_447975": {
+      "title": "Wizards Beyond Waverly Place",
+      "year": 2024,
+      "tmdb_id": 245026,
+      "trakt_id": 222547,
+      "tvdb_id": 447975
     }
   }
 }
