@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2025-10-17T18:53:00.469772+00:00",
+  "last_updated": "2025-10-17T19:50:22.058685+00:00",
   "entries": {
     "tmdb_603": {
       "title": "The Matrix",
@@ -129,10 +129,10 @@
       "tvdb_id": 77102
     },
     "tmdb_155": {
-      "title": "The Dark Knight",
-      "year": 2008,
+      "title": "3rd Rock from the Sun",
+      "year": 1996,
       "tmdb_id": 155,
-      "trakt_id": 120,
+      "trakt_id": 154,
       "tvdb_id": 72389
     },
     "trakt_120": {
@@ -143,10 +143,10 @@
       "tvdb_id": 76107
     },
     "tvdb_72389": {
-      "title": "The Dark Knight",
-      "year": 2008,
+      "title": "3rd Rock from the Sun",
+      "year": 1996,
       "tmdb_id": 155,
-      "trakt_id": 120,
+      "trakt_id": 154,
       "tvdb_id": 72389
     },
     "tmdb_672": {
@@ -220,11 +220,11 @@
       "tvdb_id": 76107
     },
     "trakt_89": {
-      "title": "The Lord of the Rings: The Two Towers",
-      "year": 2002,
-      "tmdb_id": 121,
+      "title": "Mayday",
+      "year": 2003,
+      "tmdb_id": 90,
       "trakt_id": 89,
-      "tvdb_id": 76107
+      "tvdb_id": 79771
     },
     "tvdb_76107": {
       "title": "Doctor Who",
@@ -388,9 +388,9 @@
       "tvdb_id": 72368
     },
     "trakt_548": {
-      "title": "Harry Potter and the Goblet of Fire",
-      "year": 2005,
-      "tmdb_id": 674,
+      "title": "Law & Order",
+      "year": 1990,
+      "tmdb_id": 549,
       "trakt_id": 548,
       "tvdb_id": 72368
     },
@@ -17277,14 +17277,14 @@
       "year": 2023,
       "tmdb_id": 236416,
       "trakt_id": 210680,
-      "tvdb_id": 440507
+      "tvdb_id": 469302
     },
     "trakt_210680": {
       "title": "The UnXplained Special Presentation",
       "year": 2023,
       "tmdb_id": 236416,
       "trakt_id": 210680,
-      "tvdb_id": 440507
+      "tvdb_id": 469302
     },
     "tvdb_440507": {
       "title": "The UnXplained Special Presentation",
@@ -23565,6 +23565,5193 @@
       "tmdb_id": 245026,
       "trakt_id": 222547,
       "tvdb_id": 447975
+    },
+    "tmdb_807": {
+      "title": "Se7en",
+      "year": 1995,
+      "tmdb_id": 807,
+      "trakt_id": 650,
+      "tvdb_id": 80119
+    },
+    "trakt_650": {
+      "title": "Se7en",
+      "year": 1995,
+      "tmdb_id": 807,
+      "trakt_id": 650,
+      "tvdb_id": 80119
+    },
+    "tvdb_80119": {
+      "title": "Se7en",
+      "year": 1995,
+      "tmdb_id": 807,
+      "trakt_id": 650,
+      "tvdb_id": 80119
+    },
+    "tmdb_281044": {
+      "title": "Solo Camping for Two",
+      "year": 2025,
+      "tmdb_id": 281044,
+      "trakt_id": 271978,
+      "tvdb_id": 458406
+    },
+    "trakt_271978": {
+      "title": "Solo Camping for Two",
+      "year": 2025,
+      "tmdb_id": 281044,
+      "trakt_id": 271978,
+      "tvdb_id": 458406
+    },
+    "tvdb_458406": {
+      "title": "Solo Camping for Two",
+      "year": 2025,
+      "tmdb_id": 281044,
+      "trakt_id": 271978,
+      "tvdb_id": 458406
+    },
+    "tmdb_220542": {
+      "title": "The Apothecary Diaries",
+      "year": 2023,
+      "tmdb_id": 220542,
+      "trakt_id": 202569,
+      "tvdb_id": 431162
+    },
+    "trakt_202569": {
+      "title": "The Apothecary Diaries",
+      "year": 2023,
+      "tmdb_id": 220542,
+      "trakt_id": 202569,
+      "tvdb_id": 431162
+    },
+    "tvdb_431162": {
+      "title": "The Apothecary Diaries",
+      "year": 2023,
+      "tmdb_id": 220542,
+      "trakt_id": 202569,
+      "tvdb_id": 431162
+    },
+    "tmdb_274810": {
+      "title": "This Monster Wants to Eat Me",
+      "year": 2025,
+      "tmdb_id": 274810,
+      "trakt_id": 260390,
+      "tvdb_id": 455749
+    },
+    "trakt_260390": {
+      "title": "This Monster Wants to Eat Me",
+      "year": 2025,
+      "tmdb_id": 274810,
+      "trakt_id": 260390,
+      "tvdb_id": 455749
+    },
+    "tvdb_455749": {
+      "title": "This Monster Wants to Eat Me",
+      "year": 2025,
+      "tmdb_id": 274810,
+      "trakt_id": 260390,
+      "tvdb_id": 455749
+    },
+    "tmdb_283818": {
+      "title": "A Star Brighter than the Sun",
+      "year": 2025,
+      "tmdb_id": 283818,
+      "trakt_id": 275905,
+      "tvdb_id": 460096
+    },
+    "trakt_275905": {
+      "title": "A Star Brighter than the Sun",
+      "year": 2025,
+      "tmdb_id": 283818,
+      "trakt_id": 275905,
+      "tvdb_id": 460096
+    },
+    "tvdb_460096": {
+      "title": "A Star Brighter than the Sun",
+      "year": 2025,
+      "tmdb_id": 283818,
+      "trakt_id": 275905,
+      "tvdb_id": 460096
+    },
+    "tmdb_284433": {
+      "title": "My Awkward Senpai",
+      "year": 2025,
+      "tmdb_id": 284433,
+      "trakt_id": 276706,
+      "tvdb_id": 452709
+    },
+    "trakt_276706": {
+      "title": "My Awkward Senpai",
+      "year": 2025,
+      "tmdb_id": 284433,
+      "trakt_id": 276706,
+      "tvdb_id": 452709
+    },
+    "tvdb_452709": {
+      "title": "My Awkward Senpai",
+      "year": 2025,
+      "tmdb_id": 284433,
+      "trakt_id": 276706,
+      "tvdb_id": 452709
+    },
+    "tmdb_253811": {
+      "title": "Tougen Anki",
+      "year": 2025,
+      "tmdb_id": 253811,
+      "trakt_id": 238966,
+      "tvdb_id": 449843
+    },
+    "trakt_238966": {
+      "title": "Tougen Anki",
+      "year": 2025,
+      "tmdb_id": 253811,
+      "trakt_id": 238966,
+      "tvdb_id": 449843
+    },
+    "tvdb_449843": {
+      "title": "Tougen Anki",
+      "year": 2025,
+      "tmdb_id": 253811,
+      "trakt_id": 238966,
+      "tvdb_id": 449843
+    },
+    "tmdb_123249": {
+      "title": "My Dress-Up Darling",
+      "year": 2022,
+      "tmdb_id": 123249,
+      "trakt_id": 190379,
+      "tvdb_id": 401233
+    },
+    "trakt_190379": {
+      "title": "My Dress-Up Darling",
+      "year": 2022,
+      "tmdb_id": 123249,
+      "trakt_id": 190379,
+      "tvdb_id": 401233
+    },
+    "tvdb_401233": {
+      "title": "My Dress-Up Darling",
+      "year": 2022,
+      "tmdb_id": 123249,
+      "trakt_id": 190379,
+      "tvdb_id": 401233
+    },
+    "tmdb_30983": {
+      "title": "Case Closed",
+      "year": 1996,
+      "tmdb_id": 30983,
+      "trakt_id": 30849,
+      "tvdb_id": 72454
+    },
+    "trakt_30849": {
+      "title": "Case Closed",
+      "year": 1996,
+      "tmdb_id": 30983,
+      "trakt_id": 30849,
+      "tvdb_id": 72454
+    },
+    "tvdb_72454": {
+      "title": "Case Closed",
+      "year": 1996,
+      "tmdb_id": 30983,
+      "trakt_id": 30849,
+      "tvdb_id": 72454
+    },
+    "tmdb_278196": {
+      "title": "The Summer Hikaru Died",
+      "year": 2025,
+      "tmdb_id": 278196,
+      "trakt_id": 265340,
+      "tvdb_id": 450428
+    },
+    "trakt_265340": {
+      "title": "The Summer Hikaru Died",
+      "year": 2025,
+      "tmdb_id": 278196,
+      "trakt_id": 265340,
+      "tvdb_id": 450428
+    },
+    "tvdb_450428": {
+      "title": "The Summer Hikaru Died",
+      "year": 2025,
+      "tmdb_id": 278196,
+      "trakt_id": 265340,
+      "tvdb_id": 450428
+    },
+    "tmdb_281615": {
+      "title": "The Water Magician",
+      "year": 2025,
+      "tmdb_id": 281615,
+      "trakt_id": 272796,
+      "tvdb_id": 456435
+    },
+    "trakt_272796": {
+      "title": "The Water Magician",
+      "year": 2025,
+      "tmdb_id": 281615,
+      "trakt_id": 272796,
+      "tvdb_id": 456435
+    },
+    "tvdb_456435": {
+      "title": "The Water Magician",
+      "year": 2025,
+      "tmdb_id": 281615,
+      "trakt_id": 272796,
+      "tvdb_id": 456435
+    },
+    "tmdb_60863": {
+      "title": "Haikyu!!",
+      "year": 2014,
+      "tmdb_id": 60863,
+      "trakt_id": 60417,
+      "tvdb_id": 278157
+    },
+    "trakt_60417": {
+      "title": "Haikyu!!",
+      "year": 2014,
+      "tmdb_id": 60863,
+      "trakt_id": 60417,
+      "tvdb_id": 278157
+    },
+    "tvdb_278157": {
+      "title": "Haikyu!!",
+      "year": 2014,
+      "tmdb_id": 60863,
+      "trakt_id": 60417,
+      "tvdb_id": 278157
+    },
+    "tmdb_271607": {
+      "title": "The Fragrant Flower Blooms with Dignity",
+      "year": 2025,
+      "tmdb_id": 271607,
+      "trakt_id": 256235,
+      "tvdb_id": 454524
+    },
+    "trakt_256235": {
+      "title": "The Fragrant Flower Blooms with Dignity",
+      "year": 2025,
+      "tmdb_id": 271607,
+      "trakt_id": 256235,
+      "tvdb_id": 454524
+    },
+    "tvdb_454524": {
+      "title": "The Fragrant Flower Blooms with Dignity",
+      "year": 2025,
+      "tmdb_id": 271607,
+      "trakt_id": 256235,
+      "tvdb_id": 454524
+    },
+    "tmdb_258901": {
+      "title": "SANDA",
+      "year": 2025,
+      "tmdb_id": 258901,
+      "trakt_id": 248324,
+      "tvdb_id": 452103
+    },
+    "trakt_248324": {
+      "title": "SANDA",
+      "year": 2025,
+      "tmdb_id": 258901,
+      "trakt_id": 248324,
+      "tvdb_id": 452103
+    },
+    "tvdb_452103": {
+      "title": "SANDA",
+      "year": 2025,
+      "tmdb_id": 258901,
+      "trakt_id": 248324,
+      "tvdb_id": 452103
+    },
+    "tmdb_88046": {
+      "title": "Fire Force",
+      "year": 2019,
+      "tmdb_id": 88046,
+      "trakt_id": 139892,
+      "tvdb_id": 355480
+    },
+    "trakt_139892": {
+      "title": "Fire Force",
+      "year": 2019,
+      "tmdb_id": 88046,
+      "trakt_id": 139892,
+      "tvdb_id": 355480
+    },
+    "tvdb_355480": {
+      "title": "Fire Force",
+      "year": 2019,
+      "tmdb_id": 88046,
+      "trakt_id": 139892,
+      "tvdb_id": 355480
+    },
+    "tmdb_286404": {
+      "title": "The Dark History of the Reincarnated Villainess",
+      "year": 2025,
+      "tmdb_id": 286404,
+      "trakt_id": 279313,
+      "tvdb_id": 446238
+    },
+    "trakt_279313": {
+      "title": "The Dark History of the Reincarnated Villainess",
+      "year": 2025,
+      "tmdb_id": 286404,
+      "trakt_id": 279313,
+      "tvdb_id": 446238
+    },
+    "tvdb_446238": {
+      "title": "The Dark History of the Reincarnated Villainess",
+      "year": 2025,
+      "tmdb_id": 286404,
+      "trakt_id": 279313,
+      "tvdb_id": 446238
+    },
+    "tmdb_278635": {
+      "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+      "year": 2025,
+      "tmdb_id": 278635,
+      "trakt_id": 265911,
+      "tvdb_id": 456730
+    },
+    "trakt_265911": {
+      "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+      "year": 2025,
+      "tmdb_id": 278635,
+      "trakt_id": 265911,
+      "tvdb_id": 456730
+    },
+    "tvdb_456730": {
+      "title": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+      "year": 2025,
+      "tmdb_id": 278635,
+      "trakt_id": 265911,
+      "tvdb_id": 456730
+    },
+    "tmdb_30981": {
+      "title": "Monster",
+      "year": 2004,
+      "tmdb_id": 30981,
+      "trakt_id": 30847,
+      "tvdb_id": 74599
+    },
+    "trakt_30847": {
+      "title": "Monster",
+      "year": 2004,
+      "tmdb_id": 30981,
+      "trakt_id": 30847,
+      "tvdb_id": 74599
+    },
+    "tvdb_74599": {
+      "title": "Monster",
+      "year": 2004,
+      "tmdb_id": 30981,
+      "trakt_id": 30847,
+      "tvdb_id": 74599
+    },
+    "tmdb_258348": {
+      "title": "Clevatess",
+      "year": 2025,
+      "tmdb_id": 258348,
+      "trakt_id": 247331,
+      "tvdb_id": 451793
+    },
+    "trakt_247331": {
+      "title": "Clevatess",
+      "year": 2025,
+      "tmdb_id": 258348,
+      "trakt_id": 247331,
+      "tvdb_id": 451793
+    },
+    "tvdb_451793": {
+      "title": "Clevatess",
+      "year": 2025,
+      "tmdb_id": 258348,
+      "trakt_id": 247331,
+      "tvdb_id": 451793
+    },
+    "tmdb_207784": {
+      "title": "Delicious in Dungeon",
+      "year": 2024,
+      "tmdb_id": 207784,
+      "trakt_id": 197382,
+      "tvdb_id": 423257
+    },
+    "trakt_197382": {
+      "title": "Delicious in Dungeon",
+      "year": 2024,
+      "tmdb_id": 207784,
+      "trakt_id": 197382,
+      "tvdb_id": 423257
+    },
+    "tvdb_423257": {
+      "title": "Delicious in Dungeon",
+      "year": 2024,
+      "tmdb_id": 207784,
+      "trakt_id": 197382,
+      "tvdb_id": 423257
+    },
+    "tmdb_138357": {
+      "title": "Call of the Night",
+      "year": 2022,
+      "tmdb_id": 138357,
+      "trakt_id": 191159,
+      "tvdb_id": 412374
+    },
+    "trakt_191159": {
+      "title": "Call of the Night",
+      "year": 2022,
+      "tmdb_id": 138357,
+      "trakt_id": 191159,
+      "tvdb_id": 412374
+    },
+    "tvdb_412374": {
+      "title": "Call of the Night",
+      "year": 2022,
+      "tmdb_id": 138357,
+      "trakt_id": 191159,
+      "tvdb_id": 412374
+    },
+    "tmdb_271605": {
+      "title": "May I Ask for One Final Thing?",
+      "year": 2025,
+      "tmdb_id": 271605,
+      "trakt_id": 256233,
+      "tvdb_id": 454525
+    },
+    "trakt_256233": {
+      "title": "May I Ask for One Final Thing?",
+      "year": 2025,
+      "tmdb_id": 271605,
+      "trakt_id": 256233,
+      "tvdb_id": 454525
+    },
+    "tvdb_454525": {
+      "title": "May I Ask for One Final Thing?",
+      "year": 2025,
+      "tmdb_id": 271605,
+      "trakt_id": 256233,
+      "tvdb_id": 454525
+    },
+    "tmdb_31724": {
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "year": 2006,
+      "tmdb_id": 31724,
+      "trakt_id": 31586,
+      "tvdb_id": 79525
+    },
+    "trakt_31586": {
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "year": 2006,
+      "tmdb_id": 31724,
+      "trakt_id": 31586,
+      "tvdb_id": 79525
+    },
+    "tvdb_79525": {
+      "title": "Code Geass: Lelouch of the Rebellion",
+      "year": 2006,
+      "tmdb_id": 31724,
+      "trakt_id": 31586,
+      "tvdb_id": 79525
+    },
+    "tmdb_94664": {
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "year": 2021,
+      "tmdb_id": 94664,
+      "trakt_id": 156460,
+      "tvdb_id": 371310
+    },
+    "trakt_156460": {
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "year": 2021,
+      "tmdb_id": 94664,
+      "trakt_id": 156460,
+      "tvdb_id": 371310
+    },
+    "tvdb_371310": {
+      "title": "Mushoku Tensei: Jobless Reincarnation",
+      "year": 2021,
+      "tmdb_id": 94664,
+      "trakt_id": 156460,
+      "tvdb_id": 371310
+    },
+    "tmdb_890": {
+      "title": "Neon Genesis Evangelion",
+      "year": 1995,
+      "tmdb_id": 890,
+      "trakt_id": 885,
+      "tvdb_id": 70350
+    },
+    "trakt_885": {
+      "title": "Neon Genesis Evangelion",
+      "year": 1995,
+      "tmdb_id": 890,
+      "trakt_id": 885,
+      "tvdb_id": 70350
+    },
+    "tvdb_70350": {
+      "title": "Neon Genesis Evangelion",
+      "year": 1995,
+      "tmdb_id": 890,
+      "trakt_id": 885,
+      "tvdb_id": 70350
+    },
+    "tmdb_82739": {
+      "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "year": 2018,
+      "tmdb_id": 82739,
+      "trakt_id": 129528,
+      "tvdb_id": 345596
+    },
+    "trakt_129528": {
+      "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "year": 2018,
+      "tmdb_id": 82739,
+      "trakt_id": 129528,
+      "tvdb_id": 345596
+    },
+    "tvdb_345596": {
+      "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+      "year": 2018,
+      "tmdb_id": 82739,
+      "trakt_id": 129528,
+      "tvdb_id": 345596
+    },
+    "tmdb_293010": {
+      "title": "Let's Play",
+      "year": 2025,
+      "tmdb_id": 293010,
+      "trakt_id": 287473,
+      "tvdb_id": 440965
+    },
+    "trakt_287473": {
+      "title": "Let's Play",
+      "year": 2025,
+      "tmdb_id": 293010,
+      "trakt_id": 287473,
+      "tvdb_id": 440965
+    },
+    "tvdb_440965": {
+      "title": "Let's Play",
+      "year": 2025,
+      "tmdb_id": 293010,
+      "trakt_id": 287473,
+      "tvdb_id": 440965
+    },
+    "tmdb_70881": {
+      "title": "Boruto: Naruto Next Generations",
+      "year": 2017,
+      "tmdb_id": 70881,
+      "trakt_id": 113946,
+      "tvdb_id": 321285
+    },
+    "trakt_113946": {
+      "title": "Boruto: Naruto Next Generations",
+      "year": 2017,
+      "tmdb_id": 70881,
+      "trakt_id": 113946,
+      "tvdb_id": 321285
+    },
+    "tvdb_321285": {
+      "title": "Boruto: Naruto Next Generations",
+      "year": 2017,
+      "tmdb_id": 70881,
+      "trakt_id": 113946,
+      "tvdb_id": 321285
+    },
+    "tmdb_131041": {
+      "title": "BLUE LOCK",
+      "year": 2022,
+      "tmdb_id": 131041,
+      "trakt_id": 186012,
+      "tvdb_id": 408629
+    },
+    "trakt_186012": {
+      "title": "BLUE LOCK",
+      "year": 2022,
+      "tmdb_id": 131041,
+      "trakt_id": 186012,
+      "tvdb_id": 408629
+    },
+    "tvdb_408629": {
+      "title": "BLUE LOCK",
+      "year": 2022,
+      "tmdb_id": 131041,
+      "trakt_id": 186012,
+      "tvdb_id": 408629
+    },
+    "tmdb_57041": {
+      "title": "Gintama",
+      "year": 2006,
+      "tmdb_id": 57041,
+      "trakt_id": 56675,
+      "tvdb_id": 79895
+    },
+    "trakt_56675": {
+      "title": "Gintama",
+      "year": 2006,
+      "tmdb_id": 57041,
+      "trakt_id": 56675,
+      "tvdb_id": 79895
+    },
+    "tvdb_79895": {
+      "title": "Gintama",
+      "year": 2006,
+      "tmdb_id": 57041,
+      "trakt_id": 56675,
+      "tvdb_id": 79895
+    },
+    "tmdb_78483": {
+      "title": "Kakuriyo -Bed & Breakfast for Spirits-",
+      "year": 2018,
+      "tmdb_id": 78483,
+      "trakt_id": 126424,
+      "tvdb_id": 339922
+    },
+    "trakt_126424": {
+      "title": "Kakuriyo -Bed & Breakfast for Spirits-",
+      "year": 2018,
+      "tmdb_id": 78483,
+      "trakt_id": 126424,
+      "tvdb_id": 339922
+    },
+    "tvdb_339922": {
+      "title": "Kakuriyo -Bed & Breakfast for Spirits-",
+      "year": 2018,
+      "tmdb_id": 78483,
+      "trakt_id": 126424,
+      "tvdb_id": 339922
+    },
+    "tmdb_30991": {
+      "title": "Cowboy Bebop",
+      "year": 1998,
+      "tmdb_id": 30991,
+      "trakt_id": 30857,
+      "tvdb_id": 76885
+    },
+    "trakt_30857": {
+      "title": "Cowboy Bebop",
+      "year": 1998,
+      "tmdb_id": 30991,
+      "trakt_id": 30857,
+      "tvdb_id": 76885
+    },
+    "tvdb_76885": {
+      "title": "Cowboy Bebop",
+      "year": 1998,
+      "tmdb_id": 30991,
+      "trakt_id": 30857,
+      "tvdb_id": 76885
+    },
+    "tmdb_46261": {
+      "title": "Fairy Tail",
+      "year": 2009,
+      "tmdb_id": 46261,
+      "trakt_id": 46004,
+      "tvdb_id": 114801
+    },
+    "trakt_46004": {
+      "title": "Fairy Tail",
+      "year": 2009,
+      "tmdb_id": 46261,
+      "trakt_id": 46004,
+      "tvdb_id": 114801
+    },
+    "tvdb_114801": {
+      "title": "Fairy Tail",
+      "year": 2009,
+      "tmdb_id": 46261,
+      "trakt_id": 46004,
+      "tvdb_id": 114801
+    },
+    "tmdb_204832": {
+      "title": "MASHLE: MAGIC AND MUSCLES",
+      "year": 2023,
+      "tmdb_id": 204832,
+      "trakt_id": 198111,
+      "tvdb_id": 421737
+    },
+    "trakt_198111": {
+      "title": "MASHLE: MAGIC AND MUSCLES",
+      "year": 2023,
+      "tmdb_id": 204832,
+      "trakt_id": 198111,
+      "tvdb_id": 421737
+    },
+    "tvdb_421737": {
+      "title": "MASHLE: MAGIC AND MUSCLES",
+      "year": 2023,
+      "tmdb_id": 204832,
+      "trakt_id": 198111,
+      "tvdb_id": 421737
+    },
+    "tmdb_213830": {
+      "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
+      "year": 2024,
+      "tmdb_id": 213830,
+      "trakt_id": 199570,
+      "tvdb_id": 426834
+    },
+    "trakt_199570": {
+      "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
+      "year": 2024,
+      "tmdb_id": 213830,
+      "trakt_id": 199570,
+      "tvdb_id": 426834
+    },
+    "tvdb_426834": {
+      "title": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability",
+      "year": 2024,
+      "tmdb_id": 213830,
+      "trakt_id": 199570,
+      "tvdb_id": 426834
+    },
+    "tmdb_255752": {
+      "title": "Haunted Hotel",
+      "year": 2025,
+      "tmdb_id": 255752,
+      "trakt_id": 242429,
+      "tvdb_id": 450671
+    },
+    "trakt_242429": {
+      "title": "Haunted Hotel",
+      "year": 2025,
+      "tmdb_id": 255752,
+      "trakt_id": 242429,
+      "tvdb_id": 450671
+    },
+    "tvdb_450671": {
+      "title": "Haunted Hotel",
+      "year": 2025,
+      "tmdb_id": 255752,
+      "trakt_id": 242429,
+      "tvdb_id": 450671
+    },
+    "tmdb_226469": {
+      "title": "Little Faith",
+      "year": 2023,
+      "tmdb_id": 226469,
+      "trakt_id": 207108,
+      "tvdb_id": 434840
+    },
+    "trakt_207108": {
+      "title": "Little Faith",
+      "year": 2023,
+      "tmdb_id": 226469,
+      "trakt_id": 207108,
+      "tvdb_id": 434840
+    },
+    "tvdb_434840": {
+      "title": "Little Faith",
+      "year": 2023,
+      "tmdb_id": 226469,
+      "trakt_id": 207108,
+      "tvdb_id": 434840
+    },
+    "tmdb_289567": {
+      "title": "DMV",
+      "year": 2025,
+      "tmdb_id": 289567,
+      "trakt_id": 283243,
+      "tvdb_id": 462862
+    },
+    "trakt_283243": {
+      "title": "DMV",
+      "year": 2025,
+      "tmdb_id": 289567,
+      "trakt_id": 283243,
+      "tvdb_id": 462862
+    },
+    "tvdb_462862": {
+      "title": "DMV",
+      "year": 2025,
+      "tmdb_id": 289567,
+      "trakt_id": 283243,
+      "tvdb_id": 462862
+    },
+    "tmdb_4556": {
+      "title": "Scrubs",
+      "year": 2001,
+      "tmdb_id": 4556,
+      "trakt_id": 4532,
+      "tvdb_id": 76156
+    },
+    "trakt_4532": {
+      "title": "Scrubs",
+      "year": 2001,
+      "tmdb_id": 4556,
+      "trakt_id": 4532,
+      "tvdb_id": 76156
+    },
+    "tvdb_76156": {
+      "title": "Scrubs",
+      "year": 2001,
+      "tmdb_id": 4556,
+      "trakt_id": 4532,
+      "tvdb_id": 76156
+    },
+    "tmdb_293756": {
+      "title": "Sin gluten",
+      "year": 2025,
+      "tmdb_id": 293756,
+      "trakt_id": 288415,
+      "tvdb_id": 468877
+    },
+    "trakt_288415": {
+      "title": "Sin gluten",
+      "year": 2025,
+      "tmdb_id": 293756,
+      "trakt_id": 288415,
+      "tvdb_id": 468877
+    },
+    "tvdb_468877": {
+      "title": "Sin gluten",
+      "year": 2025,
+      "tmdb_id": 293756,
+      "trakt_id": 288415,
+      "tvdb_id": 468877
+    },
+    "tmdb_63770": {
+      "title": "The Late Show with Stephen Colbert",
+      "year": 2015,
+      "tmdb_id": 63770,
+      "trakt_id": 93737,
+      "tvdb_id": 289574
+    },
+    "trakt_93737": {
+      "title": "The Late Show with Stephen Colbert",
+      "year": 2015,
+      "tmdb_id": 63770,
+      "trakt_id": 93737,
+      "tvdb_id": 289574
+    },
+    "tvdb_289574": {
+      "title": "The Late Show with Stephen Colbert",
+      "year": 2015,
+      "tmdb_id": 63770,
+      "trakt_id": 93737,
+      "tvdb_id": 289574
+    },
+    "tmdb_1422": {
+      "title": "The Middle",
+      "year": 2009,
+      "tmdb_id": 1422,
+      "trakt_id": 1413,
+      "tvdb_id": 95021
+    },
+    "trakt_1413": {
+      "title": "The Middle",
+      "year": 2009,
+      "tmdb_id": 1422,
+      "trakt_id": 1413,
+      "tvdb_id": 95021
+    },
+    "tvdb_95021": {
+      "title": "The Middle",
+      "year": 2009,
+      "tmdb_id": 1422,
+      "trakt_id": 1413,
+      "tvdb_id": 95021
+    },
+    "tmdb_71728": {
+      "title": "Young Sheldon",
+      "year": 2017,
+      "tmdb_id": 71728,
+      "trakt_id": 119172,
+      "tvdb_id": 328724
+    },
+    "trakt_119172": {
+      "title": "Young Sheldon",
+      "year": 2017,
+      "tmdb_id": 71728,
+      "trakt_id": 119172,
+      "tvdb_id": 328724
+    },
+    "tvdb_328724": {
+      "title": "Young Sheldon",
+      "year": 2017,
+      "tmdb_id": 71728,
+      "trakt_id": 119172,
+      "tvdb_id": 328724
+    },
+    "tmdb_2004": {
+      "title": "Malcolm in the Middle",
+      "year": 2000,
+      "tmdb_id": 2004,
+      "trakt_id": 1991,
+      "tvdb_id": 73838
+    },
+    "trakt_1991": {
+      "title": "Malcolm in the Middle",
+      "year": 2000,
+      "tmdb_id": 2004,
+      "trakt_id": 1991,
+      "tvdb_id": 73838
+    },
+    "tvdb_73838": {
+      "title": "Malcolm in the Middle",
+      "year": 2000,
+      "tmdb_id": 2004,
+      "trakt_id": 1991,
+      "tvdb_id": 73838
+    },
+    "tmdb_1667": {
+      "title": "Saturday Night Live",
+      "year": 1975,
+      "tmdb_id": 1667,
+      "trakt_id": 1656,
+      "tvdb_id": 76177
+    },
+    "trakt_1656": {
+      "title": "Saturday Night Live",
+      "year": 1975,
+      "tmdb_id": 1667,
+      "trakt_id": 1656,
+      "tvdb_id": 76177
+    },
+    "tvdb_76177": {
+      "title": "Saturday Night Live",
+      "year": 1975,
+      "tmdb_id": 1667,
+      "trakt_id": 1656,
+      "tvdb_id": 76177
+    },
+    "tmdb_693": {
+      "title": "Desperate Housewives",
+      "year": 2004,
+      "tmdb_id": 693,
+      "trakt_id": 691,
+      "tvdb_id": 73800
+    },
+    "trakt_691": {
+      "title": "Desperate Housewives",
+      "year": 2004,
+      "tmdb_id": 693,
+      "trakt_id": 691,
+      "tvdb_id": 73800
+    },
+    "tvdb_73800": {
+      "title": "Desperate Housewives",
+      "year": 2004,
+      "tmdb_id": 693,
+      "trakt_id": 691,
+      "tvdb_id": 73800
+    },
+    "tmdb_3452": {
+      "title": "Frasier",
+      "year": 1993,
+      "tmdb_id": 3452,
+      "trakt_id": 3430,
+      "tvdb_id": 77811
+    },
+    "trakt_3430": {
+      "title": "Frasier",
+      "year": 1993,
+      "tmdb_id": 3452,
+      "trakt_id": 3430,
+      "tvdb_id": 77811
+    },
+    "tvdb_77811": {
+      "title": "Frasier",
+      "year": 1993,
+      "tmdb_id": 3452,
+      "trakt_id": 3430,
+      "tvdb_id": 77811
+    },
+    "tmdb_61662": {
+      "title": "Schitt's Creek",
+      "year": 2015,
+      "tmdb_id": 61662,
+      "trakt_id": 82061,
+      "tvdb_id": 287247
+    },
+    "trakt_82061": {
+      "title": "Schitt's Creek",
+      "year": 2015,
+      "tmdb_id": 61662,
+      "trakt_id": 82061,
+      "tvdb_id": 287247
+    },
+    "tvdb_287247": {
+      "title": "Schitt's Creek",
+      "year": 2015,
+      "tmdb_id": 61662,
+      "trakt_id": 82061,
+      "tvdb_id": 287247
+    },
+    "tmdb_76331": {
+      "title": "Succession",
+      "year": 2018,
+      "tmdb_id": 76331,
+      "trakt_id": 125479,
+      "tvdb_id": 338186
+    },
+    "trakt_125479": {
+      "title": "Succession",
+      "year": 2018,
+      "tmdb_id": 76331,
+      "trakt_id": 125479,
+      "tvdb_id": 338186
+    },
+    "tvdb_338186": {
+      "title": "Succession",
+      "year": 2018,
+      "tmdb_id": 76331,
+      "trakt_id": 125479,
+      "tvdb_id": 338186
+    },
+    "tmdb_387": {
+      "title": "SpongeBob SquarePants",
+      "year": 1999,
+      "tmdb_id": 387,
+      "trakt_id": 386,
+      "tvdb_id": 75886
+    },
+    "trakt_386": {
+      "title": "SpongeBob SquarePants",
+      "year": 1999,
+      "tmdb_id": 387,
+      "trakt_id": 386,
+      "tvdb_id": 75886
+    },
+    "tvdb_75886": {
+      "title": "SpongeBob SquarePants",
+      "year": 1999,
+      "tmdb_id": 387,
+      "trakt_id": 386,
+      "tvdb_id": 75886
+    },
+    "tmdb_113988": {
+      "title": "DAHMER - Monster: The Jeffrey Dahmer Story",
+      "year": 2022,
+      "tmdb_id": 113988,
+      "trakt_id": 167797,
+      "tvdb_id": 389492
+    },
+    "trakt_167797": {
+      "title": "DAHMER - Monster: The Jeffrey Dahmer Story",
+      "year": 2022,
+      "tmdb_id": 113988,
+      "trakt_id": 167797,
+      "tvdb_id": 389492
+    },
+    "tvdb_389492": {
+      "title": "DAHMER - Monster: The Jeffrey Dahmer Story",
+      "year": 2022,
+      "tmdb_id": 113988,
+      "trakt_id": 167797,
+      "tvdb_id": 389492
+    },
+    "tmdb_120998": {
+      "title": "Poker Face",
+      "year": 2023,
+      "tmdb_id": 120998,
+      "trakt_id": 187032,
+      "tvdb_id": 398822
+    },
+    "trakt_187032": {
+      "title": "Poker Face",
+      "year": 2023,
+      "tmdb_id": 120998,
+      "trakt_id": 187032,
+      "tvdb_id": 398822
+    },
+    "tvdb_398822": {
+      "title": "Poker Face",
+      "year": 2023,
+      "tmdb_id": 120998,
+      "trakt_id": 187032,
+      "tvdb_id": 398822
+    },
+    "tmdb_1419": {
+      "title": "Castle",
+      "year": 2009,
+      "tmdb_id": 1419,
+      "trakt_id": 1410,
+      "tvdb_id": 83462
+    },
+    "trakt_1410": {
+      "title": "Castle",
+      "year": 2009,
+      "tmdb_id": 1419,
+      "trakt_id": 1410,
+      "tvdb_id": 83462
+    },
+    "tvdb_83462": {
+      "title": "Castle",
+      "year": 2009,
+      "tmdb_id": 1419,
+      "trakt_id": 1410,
+      "tvdb_id": 83462
+    },
+    "tmdb_1911": {
+      "title": "Bones",
+      "year": 2005,
+      "tmdb_id": 1911,
+      "trakt_id": 1898,
+      "tvdb_id": 75682
+    },
+    "trakt_1898": {
+      "title": "Bones",
+      "year": 2005,
+      "tmdb_id": 1911,
+      "trakt_id": 1898,
+      "tvdb_id": 75682
+    },
+    "tvdb_75682": {
+      "title": "Bones",
+      "year": 2005,
+      "tmdb_id": 1911,
+      "trakt_id": 1898,
+      "tvdb_id": 75682
+    },
+    "tmdb_225634": {
+      "title": "Monsters: The Lyle and Erik Menendez Story",
+      "year": 2024,
+      "tmdb_id": 225634,
+      "trakt_id": 206920,
+      "tvdb_id": 453544
+    },
+    "trakt_206920": {
+      "title": "Monsters: The Lyle and Erik Menendez Story",
+      "year": 2024,
+      "tmdb_id": 225634,
+      "trakt_id": 206920,
+      "tvdb_id": 453544
+    },
+    "tvdb_453544": {
+      "title": "Monsters: The Lyle and Erik Menendez Story",
+      "year": 2024,
+      "tmdb_id": 225634,
+      "trakt_id": 206920,
+      "tvdb_id": 453544
+    },
+    "tmdb_249042": {
+      "title": "Adolescence",
+      "year": 2025,
+      "tmdb_id": 249042,
+      "trakt_id": 230892,
+      "tvdb_id": 452467
+    },
+    "trakt_230892": {
+      "title": "Adolescence",
+      "year": 2025,
+      "tmdb_id": 249042,
+      "trakt_id": 230892,
+      "tvdb_id": 452467
+    },
+    "tvdb_452467": {
+      "title": "Adolescence",
+      "year": 2025,
+      "tmdb_id": 249042,
+      "trakt_id": 230892,
+      "tvdb_id": 452467
+    },
+    "tmdb_245703": {
+      "title": "Dept. Q",
+      "year": 2025,
+      "tmdb_id": 245703,
+      "trakt_id": 224621,
+      "tvdb_id": 445802
+    },
+    "trakt_224621": {
+      "title": "Dept. Q",
+      "year": 2025,
+      "tmdb_id": 245703,
+      "trakt_id": 224621,
+      "tvdb_id": 445802
+    },
+    "tvdb_445802": {
+      "title": "Dept. Q",
+      "year": 2025,
+      "tmdb_id": 245703,
+      "trakt_id": 224621,
+      "tvdb_id": 445802
+    },
+    "tmdb_78191": {
+      "title": "You",
+      "year": 2018,
+      "tmdb_id": 78191,
+      "trakt_id": 124764,
+      "tvdb_id": 336924
+    },
+    "trakt_124764": {
+      "title": "You",
+      "year": 2018,
+      "tmdb_id": 78191,
+      "trakt_id": 124764,
+      "tvdb_id": 336924
+    },
+    "tvdb_336924": {
+      "title": "You",
+      "year": 2018,
+      "tmdb_id": 78191,
+      "trakt_id": 124764,
+      "tvdb_id": 336924
+    },
+    "tmdb_202297": {
+      "title": "Fire Country",
+      "year": 2022,
+      "tmdb_id": 202297,
+      "trakt_id": 195577,
+      "tvdb_id": 420063
+    },
+    "trakt_195577": {
+      "title": "Fire Country",
+      "year": 2022,
+      "tmdb_id": 202297,
+      "trakt_id": 195577,
+      "tvdb_id": 420063
+    },
+    "tvdb_420063": {
+      "title": "Fire Country",
+      "year": 2022,
+      "tmdb_id": 202297,
+      "trakt_id": 195577,
+      "tvdb_id": 420063
+    },
+    "tmdb_1415": {
+      "title": "Elementary",
+      "year": 2012,
+      "tmdb_id": 1415,
+      "trakt_id": 1406,
+      "tvdb_id": 255316
+    },
+    "trakt_1406": {
+      "title": "Elementary",
+      "year": 2012,
+      "tmdb_id": 1415,
+      "trakt_id": 1406,
+      "tvdb_id": 255316
+    },
+    "tvdb_255316": {
+      "title": "Elementary",
+      "year": 2012,
+      "tmdb_id": 1415,
+      "trakt_id": 1406,
+      "tvdb_id": 255316
+    },
+    "tmdb_87940": {
+      "title": "Hudson & Rex",
+      "year": 2019,
+      "tmdb_id": 87940,
+      "trakt_id": 138172,
+      "tvdb_id": 354048
+    },
+    "trakt_138172": {
+      "title": "Hudson & Rex",
+      "year": 2019,
+      "tmdb_id": 87940,
+      "trakt_id": 138172,
+      "tvdb_id": 354048
+    },
+    "tvdb_354048": {
+      "title": "Hudson & Rex",
+      "year": 2019,
+      "tmdb_id": 87940,
+      "trakt_id": 138172,
+      "tvdb_id": 354048
+    },
+    "tmdb_287167": {
+      "title": "The Hack",
+      "year": 2025,
+      "tmdb_id": 287167,
+      "trakt_id": 280289,
+      "tvdb_id": 459562
+    },
+    "trakt_280289": {
+      "title": "The Hack",
+      "year": 2025,
+      "tmdb_id": 287167,
+      "trakt_id": 280289,
+      "tvdb_id": 459562
+    },
+    "tvdb_459562": {
+      "title": "The Hack",
+      "year": 2025,
+      "tmdb_id": 287167,
+      "trakt_id": 280289,
+      "tvdb_id": 459562
+    },
+    "tmdb_60585": {
+      "title": "Bosch",
+      "year": 2015,
+      "tmdb_id": 60585,
+      "trakt_id": 60169,
+      "tvdb_id": 277928
+    },
+    "trakt_60169": {
+      "title": "Bosch",
+      "year": 2015,
+      "tmdb_id": 60585,
+      "trakt_id": 60169,
+      "tvdb_id": 277928
+    },
+    "tvdb_277928": {
+      "title": "Bosch",
+      "year": 2015,
+      "tmdb_id": 60585,
+      "trakt_id": 60169,
+      "tvdb_id": 277928
+    },
+    "tmdb_1447": {
+      "title": "Psych",
+      "year": 2006,
+      "tmdb_id": 1447,
+      "trakt_id": 1438,
+      "tvdb_id": 79335
+    },
+    "trakt_1438": {
+      "title": "Psych",
+      "year": 2006,
+      "tmdb_id": 1447,
+      "trakt_id": 1438,
+      "tvdb_id": 79335
+    },
+    "tvdb_79335": {
+      "title": "Psych",
+      "year": 2006,
+      "tmdb_id": 1447,
+      "trakt_id": 1438,
+      "tvdb_id": 79335
+    },
+    "tmdb_71694": {
+      "title": "Snowfall",
+      "year": 2017,
+      "tmdb_id": 71694,
+      "trakt_id": 118833,
+      "tvdb_id": 328092
+    },
+    "trakt_118833": {
+      "title": "Snowfall",
+      "year": 2017,
+      "tmdb_id": 71694,
+      "trakt_id": 118833,
+      "tvdb_id": 328092
+    },
+    "tvdb_328092": {
+      "title": "Snowfall",
+      "year": 2017,
+      "tmdb_id": 71694,
+      "trakt_id": 118833,
+      "tvdb_id": 328092
+    },
+    "tmdb_32692": {
+      "title": "Blue Bloods",
+      "year": 2010,
+      "tmdb_id": 32692,
+      "trakt_id": 32551,
+      "tvdb_id": 164981
+    },
+    "trakt_32551": {
+      "title": "Blue Bloods",
+      "year": 2010,
+      "tmdb_id": 32692,
+      "trakt_id": 32551,
+      "tvdb_id": 164981
+    },
+    "tvdb_164981": {
+      "title": "Blue Bloods",
+      "year": 2010,
+      "tmdb_id": 32692,
+      "trakt_id": 32551,
+      "tvdb_id": 164981
+    },
+    "tmdb_67744": {
+      "title": "Mindhunter",
+      "year": 2017,
+      "tmdb_id": 67744,
+      "trakt_id": 116965,
+      "tvdb_id": 328708
+    },
+    "trakt_116965": {
+      "title": "Mindhunter",
+      "year": 2017,
+      "tmdb_id": 67744,
+      "trakt_id": 116965,
+      "tvdb_id": 328708
+    },
+    "tvdb_328708": {
+      "title": "Mindhunter",
+      "year": 2017,
+      "tmdb_id": 67744,
+      "trakt_id": 116965,
+      "tvdb_id": 328708
+    },
+    "tmdb_256317": {
+      "title": "Countdown",
+      "year": 2025,
+      "tmdb_id": 256317,
+      "trakt_id": 243339,
+      "tvdb_id": 450932
+    },
+    "trakt_243339": {
+      "title": "Countdown",
+      "year": 2025,
+      "tmdb_id": 256317,
+      "trakt_id": 243339,
+      "tvdb_id": 450932
+    },
+    "tvdb_450932": {
+      "title": "Countdown",
+      "year": 2025,
+      "tmdb_id": 256317,
+      "trakt_id": 243339,
+      "tvdb_id": 450932
+    },
+    "tmdb_131927": {
+      "title": "Dexter: New Blood",
+      "year": 2021,
+      "tmdb_id": 131927,
+      "trakt_id": 187026,
+      "tvdb_id": 412366
+    },
+    "trakt_187026": {
+      "title": "Dexter: New Blood",
+      "year": 2021,
+      "tmdb_id": 131927,
+      "trakt_id": 187026,
+      "tvdb_id": 412366
+    },
+    "tvdb_412366": {
+      "title": "Dexter: New Blood",
+      "year": 2021,
+      "tmdb_id": 131927,
+      "trakt_id": 187026,
+      "tvdb_id": 412366
+    },
+    "tmdb_219937": {
+      "title": "Dexter: Original Sin",
+      "year": 2024,
+      "tmdb_id": 219937,
+      "trakt_id": 202335,
+      "tvdb_id": 430780
+    },
+    "trakt_202335": {
+      "title": "Dexter: Original Sin",
+      "year": 2024,
+      "tmdb_id": 219937,
+      "trakt_id": 202335,
+      "tvdb_id": 430780
+    },
+    "tvdb_430780": {
+      "title": "Dexter: Original Sin",
+      "year": 2024,
+      "tmdb_id": 219937,
+      "trakt_id": 202335,
+      "tvdb_id": 430780
+    },
+    "tmdb_239826": {
+      "title": "Ballard",
+      "year": 2025,
+      "tmdb_id": 239826,
+      "trakt_id": 213408,
+      "tvdb_id": 453659
+    },
+    "trakt_213408": {
+      "title": "Ballard",
+      "year": 2025,
+      "tmdb_id": 239826,
+      "trakt_id": 213408,
+      "tvdb_id": 453659
+    },
+    "tvdb_453659": {
+      "title": "Ballard",
+      "year": 2025,
+      "tmdb_id": 239826,
+      "trakt_id": 213408,
+      "tvdb_id": 453659
+    },
+    "tmdb_21510": {
+      "title": "White Collar",
+      "year": 2009,
+      "tmdb_id": 21510,
+      "trakt_id": 21410,
+      "tvdb_id": 108611
+    },
+    "trakt_21410": {
+      "title": "White Collar",
+      "year": 2009,
+      "tmdb_id": 21510,
+      "trakt_id": 21410,
+      "tvdb_id": 108611
+    },
+    "tvdb_108611": {
+      "title": "White Collar",
+      "year": 2009,
+      "tmdb_id": 21510,
+      "trakt_id": 21410,
+      "tvdb_id": 108611
+    },
+    "tmdb_202555": {
+      "title": "Daredevil: Born Again",
+      "year": 2025,
+      "tmdb_id": 202555,
+      "trakt_id": 195845,
+      "tvdb_id": 422712
+    },
+    "trakt_195845": {
+      "title": "Daredevil: Born Again",
+      "year": 2025,
+      "tmdb_id": 202555,
+      "trakt_id": 195845,
+      "tvdb_id": 422712
+    },
+    "tvdb_422712": {
+      "title": "Daredevil: Born Again",
+      "year": 2025,
+      "tmdb_id": 202555,
+      "trakt_id": 195845,
+      "tvdb_id": 422712
+    },
+    "tmdb_97951": {
+      "title": "Mayor of Kingstown",
+      "year": 2021,
+      "tmdb_id": 97951,
+      "trakt_id": 165410,
+      "tvdb_id": 386630
+    },
+    "trakt_165410": {
+      "title": "Mayor of Kingstown",
+      "year": 2021,
+      "tmdb_id": 97951,
+      "trakt_id": 165410,
+      "tvdb_id": 386630
+    },
+    "tvdb_386630": {
+      "title": "Mayor of Kingstown",
+      "year": 2021,
+      "tmdb_id": 97951,
+      "trakt_id": 165410,
+      "tvdb_id": 386630
+    },
+    "tmdb_285368": {
+      "title": "Frauds",
+      "year": 2025,
+      "tmdb_id": 285368,
+      "trakt_id": 277951,
+      "tvdb_id": 459635
+    },
+    "trakt_277951": {
+      "title": "Frauds",
+      "year": 2025,
+      "tmdb_id": 285368,
+      "trakt_id": 277951,
+      "tvdb_id": 459635
+    },
+    "tvdb_459635": {
+      "title": "Frauds",
+      "year": 2025,
+      "tmdb_id": 285368,
+      "trakt_id": 277951,
+      "tvdb_id": 459635
+    },
+    "tmdb_39351": {
+      "title": "Grimm",
+      "year": 2011,
+      "tmdb_id": 39351,
+      "trakt_id": 39185,
+      "tvdb_id": 248736
+    },
+    "trakt_39185": {
+      "title": "Grimm",
+      "year": 2011,
+      "tmdb_id": 39351,
+      "trakt_id": 39185,
+      "tvdb_id": 248736
+    },
+    "tvdb_248736": {
+      "title": "Grimm",
+      "year": 2011,
+      "tmdb_id": 39351,
+      "trakt_id": 39185,
+      "tvdb_id": 248736
+    },
+    "tmdb_237052": {
+      "title": "The Lost Station Girls",
+      "year": 2025,
+      "tmdb_id": 237052,
+      "trakt_id": 232081,
+      "tvdb_id": 457884
+    },
+    "trakt_232081": {
+      "title": "The Lost Station Girls",
+      "year": 2025,
+      "tmdb_id": 237052,
+      "trakt_id": 232081,
+      "tvdb_id": 457884
+    },
+    "tvdb_457884": {
+      "title": "The Lost Station Girls",
+      "year": 2025,
+      "tmdb_id": 237052,
+      "trakt_id": 232081,
+      "tvdb_id": 457884
+    },
+    "tmdb_252135": {
+      "title": "The Resurrected",
+      "year": 2025,
+      "tmdb_id": 252135,
+      "trakt_id": 235834,
+      "tvdb_id": 464296
+    },
+    "trakt_235834": {
+      "title": "The Resurrected",
+      "year": 2025,
+      "tmdb_id": 252135,
+      "trakt_id": 235834,
+      "tvdb_id": 464296
+    },
+    "tvdb_464296": {
+      "title": "The Resurrected",
+      "year": 2025,
+      "tmdb_id": 252135,
+      "trakt_id": 235834,
+      "tvdb_id": 464296
+    },
+    "tmdb_1831": {
+      "title": "Grand Designs",
+      "year": 1999,
+      "tmdb_id": 1831,
+      "trakt_id": 1819,
+      "tvdb_id": 79264
+    },
+    "trakt_1819": {
+      "title": "Grand Designs",
+      "year": 1999,
+      "tmdb_id": 1831,
+      "trakt_id": 1819,
+      "tvdb_id": 79264
+    },
+    "tvdb_79264": {
+      "title": "Grand Designs",
+      "year": 1999,
+      "tmdb_id": 1831,
+      "trakt_id": 1819,
+      "tvdb_id": 79264
+    },
+    "tmdb_262955": {
+      "title": "Starting 5",
+      "year": 2024,
+      "tmdb_id": 262955,
+      "trakt_id": 253804,
+      "tvdb_id": 453854
+    },
+    "trakt_253804": {
+      "title": "Starting 5",
+      "year": 2024,
+      "tmdb_id": 262955,
+      "trakt_id": 253804,
+      "tvdb_id": 453854
+    },
+    "tvdb_453854": {
+      "title": "Starting 5",
+      "year": 2024,
+      "tmdb_id": 262955,
+      "trakt_id": 253804,
+      "tvdb_id": 453854
+    },
+    "tmdb_136638": {
+      "title": "Richard Hammond's Workshop",
+      "year": 2021,
+      "tmdb_id": 136638,
+      "trakt_id": 189950,
+      "tvdb_id": 411496
+    },
+    "trakt_189950": {
+      "title": "Richard Hammond's Workshop",
+      "year": 2021,
+      "tmdb_id": 136638,
+      "trakt_id": 189950,
+      "tvdb_id": 411496
+    },
+    "tvdb_411496": {
+      "title": "Richard Hammond's Workshop",
+      "year": 2021,
+      "tmdb_id": 136638,
+      "trakt_id": 189950,
+      "tvdb_id": 411496
+    },
+    "tmdb_262281": {
+      "title": "Victoria Beckham",
+      "year": 2025,
+      "tmdb_id": 262281,
+      "trakt_id": 253006,
+      "tvdb_id": 453610
+    },
+    "trakt_253006": {
+      "title": "Victoria Beckham",
+      "year": 2025,
+      "tmdb_id": 262281,
+      "trakt_id": 253006,
+      "tvdb_id": 453610
+    },
+    "tvdb_453610": {
+      "title": "Victoria Beckham",
+      "year": 2025,
+      "tmdb_id": 262281,
+      "trakt_id": 253006,
+      "tvdb_id": 453610
+    },
+    "tmdb_60381": {
+      "title": "Mountain Men",
+      "year": 2012,
+      "tmdb_id": 60381,
+      "trakt_id": 66671,
+      "tvdb_id": 259203
+    },
+    "trakt_66671": {
+      "title": "Mountain Men",
+      "year": 2012,
+      "tmdb_id": 60381,
+      "trakt_id": 66671,
+      "tvdb_id": 259203
+    },
+    "tvdb_259203": {
+      "title": "Mountain Men",
+      "year": 2012,
+      "tmdb_id": 60381,
+      "trakt_id": 66671,
+      "tvdb_id": 259203
+    },
+    "tmdb_262445": {
+      "title": "The Real Murders on Elm Street",
+      "year": 2024,
+      "tmdb_id": 262445,
+      "trakt_id": 253155,
+      "tvdb_id": 453276
+    },
+    "trakt_253155": {
+      "title": "The Real Murders on Elm Street",
+      "year": 2024,
+      "tmdb_id": 262445,
+      "trakt_id": 253155,
+      "tvdb_id": 453276
+    },
+    "tvdb_453276": {
+      "title": "The Real Murders on Elm Street",
+      "year": 2024,
+      "tmdb_id": 262445,
+      "trakt_id": 253155,
+      "tvdb_id": 453276
+    },
+    "tmdb_246111": {
+      "title": "How Are You? It's Alan (Partridge)",
+      "year": 2025,
+      "tmdb_id": 246111,
+      "trakt_id": 225621,
+      "tvdb_id": 455924
+    },
+    "trakt_225621": {
+      "title": "How Are You? It's Alan (Partridge)",
+      "year": 2025,
+      "tmdb_id": 246111,
+      "trakt_id": 225621,
+      "tvdb_id": 455924
+    },
+    "tvdb_455924": {
+      "title": "How Are You? It's Alan (Partridge)",
+      "year": 2025,
+      "tmdb_id": 246111,
+      "trakt_id": 225621,
+      "tvdb_id": 455924
+    },
+    "tmdb_58704": {
+      "title": "Bering Sea Gold",
+      "year": 2012,
+      "tmdb_id": 58704,
+      "trakt_id": 58318,
+      "tvdb_id": 254203
+    },
+    "trakt_58318": {
+      "title": "Bering Sea Gold",
+      "year": 2012,
+      "tmdb_id": 58704,
+      "trakt_id": 58318,
+      "tvdb_id": 254203
+    },
+    "tvdb_254203": {
+      "title": "Bering Sea Gold",
+      "year": 2012,
+      "tmdb_id": 58704,
+      "trakt_id": 58318,
+      "tvdb_id": 254203
+    },
+    "tmdb_301147": {
+      "title": "The Friday the 13th Murders",
+      "year": 2025,
+      "tmdb_id": 301147,
+      "trakt_id": 299321,
+      "tvdb_id": 468594
+    },
+    "trakt_299321": {
+      "title": "The Friday the 13th Murders",
+      "year": 2025,
+      "tmdb_id": 301147,
+      "trakt_id": 299321,
+      "tvdb_id": 468594
+    },
+    "tvdb_468594": {
+      "title": "The Friday the 13th Murders",
+      "year": 2025,
+      "tmdb_id": 301147,
+      "trakt_id": 299321,
+      "tvdb_id": 468594
+    },
+    "tmdb_204646": {
+      "title": "On Patrol: Live",
+      "year": 2022,
+      "tmdb_id": 204646,
+      "trakt_id": 196432,
+      "tvdb_id": 421076
+    },
+    "trakt_196432": {
+      "title": "On Patrol: Live",
+      "year": 2022,
+      "tmdb_id": 204646,
+      "trakt_id": 196432,
+      "tvdb_id": 421076
+    },
+    "tvdb_421076": {
+      "title": "On Patrol: Live",
+      "year": 2022,
+      "tmdb_id": 204646,
+      "trakt_id": 196432,
+      "tvdb_id": 421076
+    },
+    "tmdb_3562": {
+      "title": "NOVA",
+      "year": 1974,
+      "tmdb_id": 3562,
+      "trakt_id": 3540,
+      "tvdb_id": 76119
+    },
+    "trakt_3540": {
+      "title": "NOVA",
+      "year": 1974,
+      "tmdb_id": 3562,
+      "trakt_id": 3540,
+      "tvdb_id": 76119
+    },
+    "tvdb_76119": {
+      "title": "NOVA",
+      "year": 1974,
+      "tmdb_id": 3562,
+      "trakt_id": 3540,
+      "tvdb_id": 76119
+    },
+    "tmdb_252628": {
+      "title": "Wheeler Dealers: World Tour",
+      "year": 2024,
+      "tmdb_id": 252628,
+      "trakt_id": 236711,
+      "tvdb_id": 449120
+    },
+    "trakt_236711": {
+      "title": "Wheeler Dealers: World Tour",
+      "year": 2024,
+      "tmdb_id": 252628,
+      "trakt_id": 236711,
+      "tvdb_id": 449120
+    },
+    "tvdb_449120": {
+      "title": "Wheeler Dealers: World Tour",
+      "year": 2024,
+      "tmdb_id": 252628,
+      "trakt_id": 236711,
+      "tvdb_id": 449120
+    },
+    "tmdb_299395": {
+      "title": "Cocaine Quarterback: Signal-Caller for the Cartel",
+      "year": 2025,
+      "tmdb_id": 299395,
+      "trakt_id": 296608,
+      "tvdb_id": 467432
+    },
+    "trakt_296608": {
+      "title": "Cocaine Quarterback: Signal-Caller for the Cartel",
+      "year": 2025,
+      "tmdb_id": 299395,
+      "trakt_id": 296608,
+      "tvdb_id": 467432
+    },
+    "tvdb_467432": {
+      "title": "Cocaine Quarterback: Signal-Caller for the Cartel",
+      "year": 2025,
+      "tmdb_id": 299395,
+      "trakt_id": 296608,
+      "tvdb_id": 467432
+    },
+    "tmdb_101359": {
+      "title": "The Secret of Skinwalker Ranch",
+      "year": 2020,
+      "tmdb_id": 101359,
+      "trakt_id": 159025,
+      "tvdb_id": 378178
+    },
+    "trakt_159025": {
+      "title": "The Secret of Skinwalker Ranch",
+      "year": 2020,
+      "tmdb_id": 101359,
+      "trakt_id": 159025,
+      "tvdb_id": 378178
+    },
+    "tvdb_378178": {
+      "title": "The Secret of Skinwalker Ranch",
+      "year": 2020,
+      "tmdb_id": 101359,
+      "trakt_id": 159025,
+      "tvdb_id": 378178
+    },
+    "tmdb_10184": {
+      "title": "Snapped",
+      "year": 2004,
+      "tmdb_id": 10184,
+      "trakt_id": 10135,
+      "tvdb_id": 74921
+    },
+    "trakt_10135": {
+      "title": "Snapped",
+      "year": 2004,
+      "tmdb_id": 10184,
+      "trakt_id": 10135,
+      "tvdb_id": 74921
+    },
+    "tvdb_74921": {
+      "title": "Snapped",
+      "year": 2004,
+      "tmdb_id": 10184,
+      "trakt_id": 10135,
+      "tvdb_id": 74921
+    },
+    "tmdb_204284": {
+      "title": "The Rehearsal",
+      "year": 2022,
+      "tmdb_id": 204284,
+      "trakt_id": 182868,
+      "tvdb_id": 405593
+    },
+    "trakt_182868": {
+      "title": "The Rehearsal",
+      "year": 2022,
+      "tmdb_id": 204284,
+      "trakt_id": 182868,
+      "tvdb_id": 405593
+    },
+    "tvdb_405593": {
+      "title": "The Rehearsal",
+      "year": 2022,
+      "tmdb_id": 204284,
+      "trakt_id": 182868,
+      "tvdb_id": 405593
+    },
+    "tmdb_11105": {
+      "title": "Forensic Files",
+      "year": 1996,
+      "tmdb_id": 11105,
+      "trakt_id": 11053,
+      "tvdb_id": 71415
+    },
+    "trakt_11053": {
+      "title": "Forensic Files",
+      "year": 1996,
+      "tmdb_id": 11105,
+      "trakt_id": 11053,
+      "tvdb_id": 71415
+    },
+    "tvdb_71415": {
+      "title": "Forensic Files",
+      "year": 1996,
+      "tmdb_id": 11105,
+      "trakt_id": 11053,
+      "tvdb_id": 71415
+    },
+    "tmdb_292130": {
+      "title": "Mr. Scorsese",
+      "year": 2025,
+      "tmdb_id": 292130,
+      "trakt_id": 286506,
+      "tvdb_id": 463943
+    },
+    "trakt_286506": {
+      "title": "Mr. Scorsese",
+      "year": 2025,
+      "tmdb_id": 292130,
+      "trakt_id": 286506,
+      "tvdb_id": 463943
+    },
+    "tvdb_463943": {
+      "title": "Mr. Scorsese",
+      "year": 2025,
+      "tmdb_id": 292130,
+      "trakt_id": 286506,
+      "tvdb_id": 463943
+    },
+    "tmdb_5146": {
+      "title": "The First 48",
+      "year": 2004,
+      "tmdb_id": 5146,
+      "trakt_id": 5119,
+      "tvdb_id": 81275
+    },
+    "trakt_5119": {
+      "title": "The First 48",
+      "year": 2004,
+      "tmdb_id": 5146,
+      "trakt_id": 5119,
+      "tvdb_id": 81275
+    },
+    "tvdb_81275": {
+      "title": "The First 48",
+      "year": 2004,
+      "tmdb_id": 5146,
+      "trakt_id": 5119,
+      "tvdb_id": 81275
+    },
+    "tmdb_2394": {
+      "title": "This Old House",
+      "year": 1979,
+      "tmdb_id": 2394,
+      "trakt_id": 2380,
+      "tvdb_id": 77444
+    },
+    "trakt_2380": {
+      "title": "This Old House",
+      "year": 1979,
+      "tmdb_id": 2394,
+      "trakt_id": 2380,
+      "tvdb_id": 77444
+    },
+    "tvdb_77444": {
+      "title": "This Old House",
+      "year": 1979,
+      "tmdb_id": 2394,
+      "trakt_id": 2380,
+      "tvdb_id": 77444
+    },
+    "tmdb_87083": {
+      "title": "Formula 1: Drive to Survive",
+      "year": 2019,
+      "tmdb_id": 87083,
+      "trakt_id": 144377,
+      "tvdb_id": 359913
+    },
+    "trakt_144377": {
+      "title": "Formula 1: Drive to Survive",
+      "year": 2019,
+      "tmdb_id": 87083,
+      "trakt_id": 144377,
+      "tvdb_id": 359913
+    },
+    "tvdb_359913": {
+      "title": "Formula 1: Drive to Survive",
+      "year": 2019,
+      "tmdb_id": 87083,
+      "trakt_id": 144377,
+      "tvdb_id": 359913
+    },
+    "tmdb_90": {
+      "title": "Mayday",
+      "year": 2003,
+      "tmdb_id": 90,
+      "trakt_id": 89,
+      "tvdb_id": 79771
+    },
+    "tvdb_79771": {
+      "title": "Mayday",
+      "year": 2003,
+      "tmdb_id": 90,
+      "trakt_id": 89,
+      "tvdb_id": 79771
+    },
+    "tmdb_215943": {
+      "title": "The Traitors",
+      "year": 2023,
+      "tmdb_id": 215943,
+      "trakt_id": 200623,
+      "tvdb_id": 428163
+    },
+    "trakt_200623": {
+      "title": "The Traitors",
+      "year": 2023,
+      "tmdb_id": 215943,
+      "trakt_id": 200623,
+      "tvdb_id": 428163
+    },
+    "tvdb_428163": {
+      "title": "The Traitors",
+      "year": 2023,
+      "tmdb_id": 215943,
+      "trakt_id": 200623,
+      "tvdb_id": 428163
+    },
+    "tmdb_298234": {
+      "title": "aka Charlie Sheen",
+      "year": 2025,
+      "tmdb_id": 298234,
+      "trakt_id": 294788,
+      "tvdb_id": 466849
+    },
+    "trakt_294788": {
+      "title": "aka Charlie Sheen",
+      "year": 2025,
+      "tmdb_id": 298234,
+      "trakt_id": 294788,
+      "tvdb_id": 466849
+    },
+    "tvdb_466849": {
+      "title": "aka Charlie Sheen",
+      "year": 2025,
+      "tmdb_id": 298234,
+      "trakt_id": 294788,
+      "tvdb_id": 466849
+    },
+    "tmdb_299090": {
+      "title": "The Tech Bro Murders",
+      "year": 2025,
+      "tmdb_id": 299090,
+      "trakt_id": 296079,
+      "tvdb_id": 467154
+    },
+    "trakt_296079": {
+      "title": "The Tech Bro Murders",
+      "year": 2025,
+      "tmdb_id": 299090,
+      "trakt_id": 296079,
+      "tvdb_id": 467154
+    },
+    "tvdb_467154": {
+      "title": "The Tech Bro Murders",
+      "year": 2025,
+      "tmdb_id": 299090,
+      "trakt_id": 296079,
+      "tvdb_id": 467154
+    },
+    "tmdb_58818": {
+      "title": "Cold Justice",
+      "year": 2013,
+      "tmdb_id": 58818,
+      "trakt_id": 58431,
+      "tvdb_id": 271773
+    },
+    "trakt_58431": {
+      "title": "Cold Justice",
+      "year": 2013,
+      "tmdb_id": 58818,
+      "trakt_id": 58431,
+      "tvdb_id": 271773
+    },
+    "tvdb_271773": {
+      "title": "Cold Justice",
+      "year": 2013,
+      "tmdb_id": 58818,
+      "trakt_id": 58431,
+      "tvdb_id": 271773
+    },
+    "tmdb_91371": {
+      "title": "The UnXplained",
+      "year": 2019,
+      "tmdb_id": 91371,
+      "trakt_id": 149777,
+      "tvdb_id": 366173
+    },
+    "trakt_149777": {
+      "title": "The UnXplained",
+      "year": 2019,
+      "tmdb_id": 91371,
+      "trakt_id": 149777,
+      "tvdb_id": 366173
+    },
+    "tvdb_366173": {
+      "title": "The UnXplained",
+      "year": 2019,
+      "tmdb_id": 91371,
+      "trakt_id": 149777,
+      "tvdb_id": 366173
+    },
+    "tmdb_23545": {
+      "title": "Ask This Old House",
+      "year": 2002,
+      "tmdb_id": 23545,
+      "trakt_id": 23440,
+      "tvdb_id": 74326
+    },
+    "trakt_23440": {
+      "title": "Ask This Old House",
+      "year": 2002,
+      "tmdb_id": 23545,
+      "trakt_id": 23440,
+      "tvdb_id": 74326
+    },
+    "tvdb_74326": {
+      "title": "Ask This Old House",
+      "year": 2002,
+      "tmdb_id": 23545,
+      "trakt_id": 23440,
+      "tvdb_id": 74326
+    },
+    "tmdb_139434": {
+      "title": "7 vs. Wild",
+      "year": 2021,
+      "tmdb_id": 139434,
+      "trakt_id": 191476,
+      "tvdb_id": 412730
+    },
+    "trakt_191476": {
+      "title": "7 vs. Wild",
+      "year": 2021,
+      "tmdb_id": 139434,
+      "trakt_id": 191476,
+      "tvdb_id": 412730
+    },
+    "tvdb_412730": {
+      "title": "7 vs. Wild",
+      "year": 2021,
+      "tmdb_id": 139434,
+      "trakt_id": 191476,
+      "tvdb_id": 412730
+    },
+    "tmdb_1749": {
+      "title": "How It's Made",
+      "year": 2001,
+      "tmdb_id": 1749,
+      "trakt_id": 1737,
+      "tvdb_id": 79485
+    },
+    "trakt_1737": {
+      "title": "How It's Made",
+      "year": 2001,
+      "tmdb_id": 1749,
+      "trakt_id": 1737,
+      "tvdb_id": 79485
+    },
+    "tvdb_79485": {
+      "title": "How It's Made",
+      "year": 2001,
+      "tmdb_id": 1749,
+      "trakt_id": 1737,
+      "tvdb_id": 79485
+    },
+    "tmdb_78": {
+      "title": "Dateline NBC",
+      "year": 1992,
+      "tmdb_id": 78,
+      "trakt_id": 77,
+      "tvdb_id": 70600
+    },
+    "trakt_77": {
+      "title": "Dateline NBC",
+      "year": 1992,
+      "tmdb_id": 78,
+      "trakt_id": 77,
+      "tvdb_id": 70600
+    },
+    "tvdb_70600": {
+      "title": "Dateline NBC",
+      "year": 1992,
+      "tmdb_id": 78,
+      "trakt_id": 77,
+      "tvdb_id": 70600
+    },
+    "tmdb_58957": {
+      "title": "Nathan for You",
+      "year": 2013,
+      "tmdb_id": 58957,
+      "trakt_id": 69722,
+      "tvdb_id": 267002
+    },
+    "trakt_69722": {
+      "title": "Nathan for You",
+      "year": 2013,
+      "tmdb_id": 58957,
+      "trakt_id": 69722,
+      "tvdb_id": 267002
+    },
+    "tvdb_267002": {
+      "title": "Nathan for You",
+      "year": 2013,
+      "tmdb_id": 58957,
+      "trakt_id": 69722,
+      "tvdb_id": 267002
+    },
+    "tmdb_61833": {
+      "title": "Expedition Unknown",
+      "year": 2015,
+      "tmdb_id": 61833,
+      "trakt_id": 82067,
+      "tvdb_id": 280316
+    },
+    "trakt_82067": {
+      "title": "Expedition Unknown",
+      "year": 2015,
+      "tmdb_id": 61833,
+      "trakt_id": 82067,
+      "tvdb_id": 280316
+    },
+    "tvdb_280316": {
+      "title": "Expedition Unknown",
+      "year": 2015,
+      "tmdb_id": 61833,
+      "trakt_id": 82067,
+      "tvdb_id": 280316
+    },
+    "tmdb_96152": {
+      "title": "Court Cam",
+      "year": 2019,
+      "tmdb_id": 96152,
+      "trakt_id": 154757,
+      "tvdb_id": 371728
+    },
+    "trakt_154757": {
+      "title": "Court Cam",
+      "year": 2019,
+      "tmdb_id": 96152,
+      "trakt_id": 154757,
+      "tvdb_id": 371728
+    },
+    "tvdb_371728": {
+      "title": "Court Cam",
+      "year": 2019,
+      "tmdb_id": 96152,
+      "trakt_id": 154757,
+      "tvdb_id": 371728
+    },
+    "tmdb_233183": {
+      "title": "Psycho: The Lost Tapes of Ed Gein",
+      "year": 2023,
+      "tmdb_id": 233183,
+      "trakt_id": 208247,
+      "tvdb_id": 436809
+    },
+    "trakt_208247": {
+      "title": "Psycho: The Lost Tapes of Ed Gein",
+      "year": 2023,
+      "tmdb_id": 233183,
+      "trakt_id": 208247,
+      "tvdb_id": 436809
+    },
+    "tvdb_436809": {
+      "title": "Psycho: The Lost Tapes of Ed Gein",
+      "year": 2023,
+      "tmdb_id": 233183,
+      "trakt_id": 208247,
+      "tvdb_id": 436809
+    },
+    "tmdb_58474": {
+      "title": "Cosmos",
+      "year": 2014,
+      "tmdb_id": 58474,
+      "trakt_id": 71041,
+      "tvdb_id": 260586
+    },
+    "trakt_71041": {
+      "title": "Cosmos",
+      "year": 2014,
+      "tmdb_id": 58474,
+      "trakt_id": 71041,
+      "tvdb_id": 260586
+    },
+    "tvdb_260586": {
+      "title": "Cosmos",
+      "year": 2014,
+      "tmdb_id": 58474,
+      "trakt_id": 71041,
+      "tvdb_id": 260586
+    },
+    "tmdb_1428": {
+      "title": "MythBusters",
+      "year": 2003,
+      "tmdb_id": 1428,
+      "trakt_id": 1419,
+      "tvdb_id": 73388
+    },
+    "trakt_1419": {
+      "title": "MythBusters",
+      "year": 2003,
+      "tmdb_id": 1428,
+      "trakt_id": 1419,
+      "tvdb_id": 73388
+    },
+    "tvdb_73388": {
+      "title": "MythBusters",
+      "year": 2003,
+      "tmdb_id": 1428,
+      "trakt_id": 1419,
+      "tvdb_id": 73388
+    },
+    "tmdb_91820": {
+      "title": "Couples Therapy",
+      "year": 2019,
+      "tmdb_id": 91820,
+      "trakt_id": 151163,
+      "tvdb_id": 367813
+    },
+    "trakt_151163": {
+      "title": "Couples Therapy",
+      "year": 2019,
+      "tmdb_id": 91820,
+      "trakt_id": 151163,
+      "tvdb_id": 367813
+    },
+    "tvdb_367813": {
+      "title": "Couples Therapy",
+      "year": 2019,
+      "tmdb_id": 91820,
+      "trakt_id": 151163,
+      "tvdb_id": 367813
+    },
+    "tmdb_70249": {
+      "title": "Evil Lives Here",
+      "year": 2016,
+      "tmdb_id": 70249,
+      "trakt_id": 104845,
+      "tvdb_id": 306194
+    },
+    "trakt_104845": {
+      "title": "Evil Lives Here",
+      "year": 2016,
+      "tmdb_id": 70249,
+      "trakt_id": 104845,
+      "tvdb_id": 306194
+    },
+    "tvdb_306194": {
+      "title": "Evil Lives Here",
+      "year": 2016,
+      "tmdb_id": 70249,
+      "trakt_id": 104845,
+      "tvdb_id": 306194
+    },
+    "tmdb_121718": {
+      "title": "John Wayne Gacy: Devil in Disguise",
+      "year": 2021,
+      "tmdb_id": 121718,
+      "trakt_id": 173981,
+      "tvdb_id": 397046
+    },
+    "trakt_173981": {
+      "title": "John Wayne Gacy: Devil in Disguise",
+      "year": 2021,
+      "tmdb_id": 121718,
+      "trakt_id": 173981,
+      "tvdb_id": 397046
+    },
+    "tvdb_397046": {
+      "title": "John Wayne Gacy: Devil in Disguise",
+      "year": 2021,
+      "tmdb_id": 121718,
+      "trakt_id": 173981,
+      "tvdb_id": 397046
+    },
+    "tmdb_33827": {
+      "title": "How the Universe Works",
+      "year": 2010,
+      "tmdb_id": 33827,
+      "trakt_id": 33681,
+      "tvdb_id": 159651
+    },
+    "trakt_33681": {
+      "title": "How the Universe Works",
+      "year": 2010,
+      "tmdb_id": 33827,
+      "trakt_id": 33681,
+      "tvdb_id": 159651
+    },
+    "tvdb_159651": {
+      "title": "How the Universe Works",
+      "year": 2010,
+      "tmdb_id": 33827,
+      "trakt_id": 33681,
+      "tvdb_id": 159651
+    },
+    "tmdb_7734": {
+      "title": "Police Interceptors",
+      "year": 2008,
+      "tmdb_id": 7734,
+      "trakt_id": 7689,
+      "tvdb_id": 82148
+    },
+    "trakt_7689": {
+      "title": "Police Interceptors",
+      "year": 2008,
+      "tmdb_id": 7734,
+      "trakt_id": 7689,
+      "tvdb_id": 82148
+    },
+    "tvdb_82148": {
+      "title": "Police Interceptors",
+      "year": 2008,
+      "tmdb_id": 7734,
+      "trakt_id": 7689,
+      "tvdb_id": 82148
+    },
+    "tmdb_72926": {
+      "title": "Fire & Flame – With firefighters on duty",
+      "year": 2017,
+      "tmdb_id": 72926,
+      "trakt_id": 142512,
+      "tvdb_id": 329324
+    },
+    "trakt_142512": {
+      "title": "Fire & Flame – With firefighters on duty",
+      "year": 2017,
+      "tmdb_id": 72926,
+      "trakt_id": 142512,
+      "tvdb_id": 329324
+    },
+    "tvdb_329324": {
+      "title": "Fire & Flame – With firefighters on duty",
+      "year": 2017,
+      "tmdb_id": 72926,
+      "trakt_id": 142512,
+      "tvdb_id": 329324
+    },
+    "tvdb_469302": {
+      "title": "The UnXplained Special Presentation",
+      "year": 2023,
+      "tmdb_id": 236416,
+      "trakt_id": 210680,
+      "tvdb_id": 469302
+    },
+    "tmdb_4086": {
+      "title": "Diners, Drive-ins and Dives",
+      "year": 2007,
+      "tmdb_id": 4086,
+      "trakt_id": 4062,
+      "tvdb_id": 82918
+    },
+    "trakt_4062": {
+      "title": "Diners, Drive-ins and Dives",
+      "year": 2007,
+      "tmdb_id": 4086,
+      "trakt_id": 4062,
+      "tvdb_id": 82918
+    },
+    "tvdb_82918": {
+      "title": "Diners, Drive-ins and Dives",
+      "year": 2007,
+      "tmdb_id": 4086,
+      "trakt_id": 4062,
+      "tvdb_id": 82918
+    },
+    "tmdb_3719": {
+      "title": "48 Hours",
+      "year": 1986,
+      "tmdb_id": 3719,
+      "trakt_id": 3696,
+      "tvdb_id": 138551
+    },
+    "trakt_3696": {
+      "title": "48 Hours",
+      "year": 1986,
+      "tmdb_id": 3719,
+      "trakt_id": 3696,
+      "tvdb_id": 138551
+    },
+    "tvdb_138551": {
+      "title": "48 Hours",
+      "year": 1986,
+      "tmdb_id": 3719,
+      "trakt_id": 3696,
+      "tvdb_id": 138551
+    },
+    "tmdb_38245": {
+      "title": "Grand Designs Australia",
+      "year": 2010,
+      "tmdb_id": 38245,
+      "trakt_id": 38085,
+      "tvdb_id": 196901
+    },
+    "trakt_38085": {
+      "title": "Grand Designs Australia",
+      "year": 2010,
+      "tmdb_id": 38245,
+      "trakt_id": 38085,
+      "tvdb_id": 196901
+    },
+    "tvdb_196901": {
+      "title": "Grand Designs Australia",
+      "year": 2010,
+      "tmdb_id": 38245,
+      "trakt_id": 38085,
+      "tvdb_id": 196901
+    },
+    "tmdb_71356": {
+      "title": "Mysteries of the Abandoned",
+      "year": 2017,
+      "tmdb_id": 71356,
+      "trakt_id": 118127,
+      "tvdb_id": 326691
+    },
+    "trakt_118127": {
+      "title": "Mysteries of the Abandoned",
+      "year": 2017,
+      "tmdb_id": 71356,
+      "trakt_id": 118127,
+      "tvdb_id": 326691
+    },
+    "tvdb_326691": {
+      "title": "Mysteries of the Abandoned",
+      "year": 2017,
+      "tmdb_id": 71356,
+      "trakt_id": 118127,
+      "tvdb_id": 326691
+    },
+    "tmdb_76305": {
+      "title": "Somebody Feed Phil",
+      "year": 2018,
+      "tmdb_id": 76305,
+      "trakt_id": 126887,
+      "tvdb_id": 340885
+    },
+    "trakt_126887": {
+      "title": "Somebody Feed Phil",
+      "year": 2018,
+      "tmdb_id": 76305,
+      "trakt_id": 126887,
+      "tvdb_id": 340885
+    },
+    "tvdb_340885": {
+      "title": "Somebody Feed Phil",
+      "year": 2018,
+      "tmdb_id": 76305,
+      "trakt_id": 126887,
+      "tvdb_id": 340885
+    },
+    "tmdb_56305": {
+      "title": "Anthony Bourdain: Parts Unknown",
+      "year": 2013,
+      "tmdb_id": 56305,
+      "trakt_id": 55952,
+      "tvdb_id": 264108
+    },
+    "trakt_55952": {
+      "title": "Anthony Bourdain: Parts Unknown",
+      "year": 2013,
+      "tmdb_id": 56305,
+      "trakt_id": 55952,
+      "tvdb_id": 264108
+    },
+    "tvdb_264108": {
+      "title": "Anthony Bourdain: Parts Unknown",
+      "year": 2013,
+      "tmdb_id": 56305,
+      "trakt_id": 55952,
+      "tvdb_id": 264108
+    },
+    "tmdb_116156": {
+      "title": "Planet Earth III",
+      "year": 2023,
+      "tmdb_id": 116156,
+      "trakt_id": 195217,
+      "tvdb_id": 413197
+    },
+    "trakt_195217": {
+      "title": "Planet Earth III",
+      "year": 2023,
+      "tmdb_id": 116156,
+      "trakt_id": 195217,
+      "tvdb_id": 413197
+    },
+    "tvdb_413197": {
+      "title": "Planet Earth III",
+      "year": 2023,
+      "tmdb_id": 116156,
+      "trakt_id": 195217,
+      "tvdb_id": 413197
+    },
+    "tmdb_294726": {
+      "title": "Amy Bradley Is Missing",
+      "year": 2025,
+      "tmdb_id": 294726,
+      "trakt_id": 289596,
+      "tvdb_id": 465157
+    },
+    "trakt_289596": {
+      "title": "Amy Bradley Is Missing",
+      "year": 2025,
+      "tmdb_id": 294726,
+      "trakt_id": 289596,
+      "tvdb_id": 465157
+    },
+    "tvdb_465157": {
+      "title": "Amy Bradley Is Missing",
+      "year": 2025,
+      "tmdb_id": 294726,
+      "trakt_id": 289596,
+      "tvdb_id": 465157
+    },
+    "tmdb_73320": {
+      "title": "American Monster",
+      "year": 2016,
+      "tmdb_id": 73320,
+      "trakt_id": 108126,
+      "tvdb_id": 312576
+    },
+    "trakt_108126": {
+      "title": "American Monster",
+      "year": 2016,
+      "tmdb_id": 73320,
+      "trakt_id": 108126,
+      "tvdb_id": 312576
+    },
+    "tvdb_312576": {
+      "title": "American Monster",
+      "year": 2016,
+      "tmdb_id": 73320,
+      "trakt_id": 108126,
+      "tvdb_id": 312576
+    },
+    "tmdb_243545": {
+      "title": "Hustlers Gamblers Crooks",
+      "year": 2024,
+      "tmdb_id": 243545,
+      "trakt_id": 220582,
+      "tvdb_id": 444646
+    },
+    "trakt_220582": {
+      "title": "Hustlers Gamblers Crooks",
+      "year": 2024,
+      "tmdb_id": 243545,
+      "trakt_id": 220582,
+      "tvdb_id": 444646
+    },
+    "tvdb_444646": {
+      "title": "Hustlers Gamblers Crooks",
+      "year": 2024,
+      "tmdb_id": 243545,
+      "trakt_id": 220582,
+      "tvdb_id": 444646
+    },
+    "tmdb_301239": {
+      "title": "Souvenirs : le fabuleux voyage de Seb et Sofyan",
+      "year": 2025,
+      "tmdb_id": 301239,
+      "trakt_id": 299578,
+      "tvdb_id": 468251
+    },
+    "trakt_299578": {
+      "title": "Souvenirs : le fabuleux voyage de Seb et Sofyan",
+      "year": 2025,
+      "tmdb_id": 301239,
+      "trakt_id": 299578,
+      "tvdb_id": 468251
+    },
+    "tvdb_468251": {
+      "title": "Souvenirs : le fabuleux voyage de Seb et Sofyan",
+      "year": 2025,
+      "tmdb_id": 301239,
+      "trakt_id": 299578,
+      "tvdb_id": 468251
+    },
+    "tmdb_79525": {
+      "title": "The Last Dance",
+      "year": 2020,
+      "tmdb_id": 79525,
+      "trakt_id": 153780,
+      "tvdb_id": 347721
+    },
+    "trakt_153780": {
+      "title": "The Last Dance",
+      "year": 2020,
+      "tmdb_id": 79525,
+      "trakt_id": 153780,
+      "tvdb_id": 347721
+    },
+    "tvdb_347721": {
+      "title": "The Last Dance",
+      "year": 2020,
+      "tmdb_id": 79525,
+      "trakt_id": 153780,
+      "tvdb_id": 347721
+    },
+    "tmdb_212869": {
+      "title": "Ancient Apocalypse",
+      "year": 2022,
+      "tmdb_id": 212869,
+      "trakt_id": 199200,
+      "tvdb_id": 426211
+    },
+    "trakt_199200": {
+      "title": "Ancient Apocalypse",
+      "year": 2022,
+      "tmdb_id": 212869,
+      "trakt_id": 199200,
+      "tvdb_id": 426211
+    },
+    "tvdb_426211": {
+      "title": "Ancient Apocalypse",
+      "year": 2022,
+      "tmdb_id": 212869,
+      "trakt_id": 199200,
+      "tvdb_id": 426211
+    },
+    "tmdb_60910": {
+      "title": "Life Below Zero",
+      "year": 2013,
+      "tmdb_id": 60910,
+      "trakt_id": 60458,
+      "tvdb_id": 269599
+    },
+    "trakt_60458": {
+      "title": "Life Below Zero",
+      "year": 2013,
+      "tmdb_id": 60910,
+      "trakt_id": 60458,
+      "tvdb_id": 269599
+    },
+    "tvdb_269599": {
+      "title": "Life Below Zero",
+      "year": 2013,
+      "tmdb_id": 60910,
+      "trakt_id": 60458,
+      "tvdb_id": 269599
+    },
+    "tmdb_113888": {
+      "title": "Trafficked with Mariana van Zeller",
+      "year": 2020,
+      "tmdb_id": 113888,
+      "trakt_id": 168404,
+      "tvdb_id": 390354
+    },
+    "trakt_168404": {
+      "title": "Trafficked with Mariana van Zeller",
+      "year": 2020,
+      "tmdb_id": 113888,
+      "trakt_id": 168404,
+      "tvdb_id": 390354
+    },
+    "tvdb_390354": {
+      "title": "Trafficked with Mariana van Zeller",
+      "year": 2020,
+      "tmdb_id": 113888,
+      "trakt_id": 168404,
+      "tvdb_id": 390354
+    },
+    "tmdb_227384": {
+      "title": "Beyond Skinwalker Ranch",
+      "year": 2023,
+      "tmdb_id": 227384,
+      "trakt_id": 206239,
+      "tvdb_id": 434893
+    },
+    "trakt_206239": {
+      "title": "Beyond Skinwalker Ranch",
+      "year": 2023,
+      "tmdb_id": 227384,
+      "trakt_id": 206239,
+      "tvdb_id": 434893
+    },
+    "tvdb_434893": {
+      "title": "Beyond Skinwalker Ranch",
+      "year": 2023,
+      "tmdb_id": 227384,
+      "trakt_id": 206239,
+      "tvdb_id": 434893
+    },
+    "tmdb_78889": {
+      "title": "Portrait Artist of the Year",
+      "year": 2013,
+      "tmdb_id": 78889,
+      "trakt_id": 102765,
+      "tvdb_id": 301814
+    },
+    "trakt_102765": {
+      "title": "Portrait Artist of the Year",
+      "year": 2013,
+      "tmdb_id": 78889,
+      "trakt_id": 102765,
+      "tvdb_id": 301814
+    },
+    "tvdb_301814": {
+      "title": "Portrait Artist of the Year",
+      "year": 2013,
+      "tmdb_id": 78889,
+      "trakt_id": 102765,
+      "tvdb_id": 301814
+    },
+    "tmdb_39265": {
+      "title": "Long Lost Family",
+      "year": 2011,
+      "tmdb_id": 39265,
+      "trakt_id": 39101,
+      "tvdb_id": 258255
+    },
+    "trakt_39101": {
+      "title": "Long Lost Family",
+      "year": 2011,
+      "tmdb_id": 39265,
+      "trakt_id": 39101,
+      "tvdb_id": 258255
+    },
+    "tvdb_258255": {
+      "title": "Long Lost Family",
+      "year": 2011,
+      "tmdb_id": 39265,
+      "trakt_id": 39101,
+      "tvdb_id": 258255
+    },
+    "tmdb_300417": {
+      "title": "Into the Void: Life, Death and Heavy Metal",
+      "year": 2025,
+      "tmdb_id": 300417,
+      "trakt_id": 298518,
+      "tvdb_id": 457904
+    },
+    "trakt_298518": {
+      "title": "Into the Void: Life, Death and Heavy Metal",
+      "year": 2025,
+      "tmdb_id": 300417,
+      "trakt_id": 298518,
+      "tvdb_id": 457904
+    },
+    "tvdb_457904": {
+      "title": "Into the Void: Life, Death and Heavy Metal",
+      "year": 2025,
+      "tmdb_id": 300417,
+      "trakt_id": 298518,
+      "tvdb_id": 457904
+    },
+    "tmdb_34014": {
+      "title": "An Idiot Abroad",
+      "year": 2010,
+      "tmdb_id": 34014,
+      "trakt_id": 33867,
+      "tvdb_id": 187071
+    },
+    "trakt_33867": {
+      "title": "An Idiot Abroad",
+      "year": 2010,
+      "tmdb_id": 34014,
+      "trakt_id": 33867,
+      "tvdb_id": 187071
+    },
+    "tvdb_187071": {
+      "title": "An Idiot Abroad",
+      "year": 2010,
+      "tmdb_id": 34014,
+      "trakt_id": 33867,
+      "tvdb_id": 187071
+    },
+    "tmdb_1508": {
+      "title": "Dancing with the Stars",
+      "year": 2005,
+      "tmdb_id": 1508,
+      "trakt_id": 1498,
+      "tvdb_id": 79590
+    },
+    "trakt_1498": {
+      "title": "Dancing with the Stars",
+      "year": 2005,
+      "tmdb_id": 1508,
+      "trakt_id": 1498,
+      "tvdb_id": 79590
+    },
+    "tvdb_79590": {
+      "title": "Dancing with the Stars",
+      "year": 2005,
+      "tmdb_id": 1508,
+      "trakt_id": 1498,
+      "tvdb_id": 79590
+    },
+    "tmdb_68975": {
+      "title": "Homestead Rescue",
+      "year": 2016,
+      "tmdb_id": 68975,
+      "trakt_id": 108296,
+      "tvdb_id": 312961
+    },
+    "trakt_108296": {
+      "title": "Homestead Rescue",
+      "year": 2016,
+      "tmdb_id": 68975,
+      "trakt_id": 108296,
+      "tvdb_id": 312961
+    },
+    "tvdb_312961": {
+      "title": "Homestead Rescue",
+      "year": 2016,
+      "tmdb_id": 68975,
+      "trakt_id": 108296,
+      "tvdb_id": 312961
+    },
+    "tmdb_14929": {
+      "title": "Heartland",
+      "year": 2007,
+      "tmdb_id": 14929,
+      "trakt_id": 14865,
+      "tvdb_id": 82701
+    },
+    "trakt_14865": {
+      "title": "Heartland",
+      "year": 2007,
+      "tmdb_id": 14929,
+      "trakt_id": 14865,
+      "tvdb_id": 82701
+    },
+    "tvdb_82701": {
+      "title": "Heartland",
+      "year": 2007,
+      "tmdb_id": 14929,
+      "trakt_id": 14865,
+      "tvdb_id": 82701
+    },
+    "tmdb_52": {
+      "title": "That '70s Show",
+      "year": 1998,
+      "tmdb_id": 52,
+      "trakt_id": 52,
+      "tvdb_id": 73787
+    },
+    "trakt_52": {
+      "title": "That '70s Show",
+      "year": 1998,
+      "tmdb_id": 52,
+      "trakt_id": 52,
+      "tvdb_id": 73787
+    },
+    "tvdb_73787": {
+      "title": "That '70s Show",
+      "year": 1998,
+      "tmdb_id": 52,
+      "trakt_id": 52,
+      "tvdb_id": 73787
+    },
+    "tmdb_2912": {
+      "title": "Jeopardy!",
+      "year": 1984,
+      "tmdb_id": 2912,
+      "trakt_id": 2893,
+      "tvdb_id": 77075
+    },
+    "trakt_2893": {
+      "title": "Jeopardy!",
+      "year": 1984,
+      "tmdb_id": 2912,
+      "trakt_id": 2893,
+      "tvdb_id": 77075
+    },
+    "tvdb_77075": {
+      "title": "Jeopardy!",
+      "year": 1984,
+      "tmdb_id": 2912,
+      "trakt_id": 2893,
+      "tvdb_id": 77075
+    },
+    "tmdb_112738": {
+      "title": "HPI",
+      "year": 2021,
+      "tmdb_id": 112738,
+      "trakt_id": 179408,
+      "tvdb_id": 387368
+    },
+    "trakt_179408": {
+      "title": "HPI",
+      "year": 2021,
+      "tmdb_id": 112738,
+      "trakt_id": 179408,
+      "tvdb_id": 387368
+    },
+    "tvdb_387368": {
+      "title": "HPI",
+      "year": 2021,
+      "tmdb_id": 112738,
+      "trakt_id": 179408,
+      "tvdb_id": 387368
+    },
+    "tmdb_74676": {
+      "title": "Halloween Baking Championship",
+      "year": 2015,
+      "tmdb_id": 74676,
+      "trakt_id": 102630,
+      "tvdb_id": 301567
+    },
+    "trakt_102630": {
+      "title": "Halloween Baking Championship",
+      "year": 2015,
+      "tmdb_id": 74676,
+      "trakt_id": 102630,
+      "tvdb_id": 301567
+    },
+    "tvdb_301567": {
+      "title": "Halloween Baking Championship",
+      "year": 2015,
+      "tmdb_id": 74676,
+      "trakt_id": 102630,
+      "tvdb_id": 301567
+    },
+    "tmdb_1877": {
+      "title": "Phineas and Ferb",
+      "year": 2007,
+      "tmdb_id": 1877,
+      "trakt_id": 1865,
+      "tvdb_id": 81848
+    },
+    "trakt_1865": {
+      "title": "Phineas and Ferb",
+      "year": 2007,
+      "tmdb_id": 1877,
+      "trakt_id": 1865,
+      "tvdb_id": 81848
+    },
+    "tvdb_81848": {
+      "title": "Phineas and Ferb",
+      "year": 2007,
+      "tmdb_id": 1877,
+      "trakt_id": 1865,
+      "tvdb_id": 81848
+    },
+    "tmdb_49009": {
+      "title": "The Goldbergs",
+      "year": 2013,
+      "tmdb_id": 49009,
+      "trakt_id": 48702,
+      "tvdb_id": 269653
+    },
+    "trakt_48702": {
+      "title": "The Goldbergs",
+      "year": 2013,
+      "tmdb_id": 49009,
+      "trakt_id": 48702,
+      "tvdb_id": 269653
+    },
+    "tvdb_269653": {
+      "title": "The Goldbergs",
+      "year": 2013,
+      "tmdb_id": 49009,
+      "trakt_id": 48702,
+      "tvdb_id": 269653
+    },
+    "tmdb_2352": {
+      "title": "The Nanny",
+      "year": 1993,
+      "tmdb_id": 2352,
+      "trakt_id": 2338,
+      "tvdb_id": 75675
+    },
+    "trakt_2338": {
+      "title": "The Nanny",
+      "year": 1993,
+      "tmdb_id": 2352,
+      "trakt_id": 2338,
+      "tvdb_id": 75675
+    },
+    "tvdb_75675": {
+      "title": "The Nanny",
+      "year": 1993,
+      "tmdb_id": 2352,
+      "trakt_id": 2338,
+      "tvdb_id": 75675
+    },
+    "tmdb_2685": {
+      "title": "Family Matters",
+      "year": 1989,
+      "tmdb_id": 2685,
+      "trakt_id": 2667,
+      "tvdb_id": 76732
+    },
+    "trakt_2667": {
+      "title": "Family Matters",
+      "year": 1989,
+      "tmdb_id": 2685,
+      "trakt_id": 2667,
+      "tvdb_id": 76732
+    },
+    "tvdb_76732": {
+      "title": "Family Matters",
+      "year": 1989,
+      "tmdb_id": 2685,
+      "trakt_id": 2667,
+      "tvdb_id": 76732
+    },
+    "tmdb_1892": {
+      "title": "The Fresh Prince of Bel-Air",
+      "year": 1990,
+      "tmdb_id": 1892,
+      "trakt_id": 1879,
+      "tvdb_id": 76738
+    },
+    "trakt_1879": {
+      "title": "The Fresh Prince of Bel-Air",
+      "year": 1990,
+      "tmdb_id": 1892,
+      "trakt_id": 1879,
+      "tvdb_id": 76738
+    },
+    "tvdb_76738": {
+      "title": "The Fresh Prince of Bel-Air",
+      "year": 1990,
+      "tmdb_id": 1892,
+      "trakt_id": 1879,
+      "tvdb_id": 76738
+    },
+    "tmdb_4313": {
+      "title": "Full House",
+      "year": 1987,
+      "tmdb_id": 4313,
+      "trakt_id": 4289,
+      "tvdb_id": 70500
+    },
+    "trakt_4289": {
+      "title": "Full House",
+      "year": 1987,
+      "tmdb_id": 4313,
+      "trakt_id": 4289,
+      "tvdb_id": 70500
+    },
+    "tvdb_70500": {
+      "title": "Full House",
+      "year": 1987,
+      "tmdb_id": 4313,
+      "trakt_id": 4289,
+      "tvdb_id": 70500
+    },
+    "tmdb_605": {
+      "title": "Sabrina, the Teenage Witch",
+      "year": 1996,
+      "tmdb_id": 605,
+      "trakt_id": 604,
+      "tvdb_id": 76876
+    },
+    "trakt_604": {
+      "title": "Sabrina, the Teenage Witch",
+      "year": 1996,
+      "tmdb_id": 605,
+      "trakt_id": 604,
+      "tvdb_id": 76876
+    },
+    "tvdb_76876": {
+      "title": "Sabrina, the Teenage Witch",
+      "year": 1996,
+      "tmdb_id": 605,
+      "trakt_id": 604,
+      "tvdb_id": 76876
+    },
+    "trakt_154": {
+      "title": "3rd Rock from the Sun",
+      "year": 1996,
+      "tmdb_id": 155,
+      "trakt_id": 154,
+      "tvdb_id": 72389
+    },
+    "tmdb_76373": {
+      "title": "Seeking Sister Wife",
+      "year": 2018,
+      "tmdb_id": 76373,
+      "trakt_id": 126982,
+      "tvdb_id": 341183
+    },
+    "trakt_126982": {
+      "title": "Seeking Sister Wife",
+      "year": 2018,
+      "tmdb_id": 76373,
+      "trakt_id": 126982,
+      "tvdb_id": 341183
+    },
+    "tvdb_341183": {
+      "title": "Seeking Sister Wife",
+      "year": 2018,
+      "tmdb_id": 76373,
+      "trakt_id": 126982,
+      "tvdb_id": 341183
+    },
+    "tmdb_55546": {
+      "title": "The Smartest Man in the World",
+      "year": 2003,
+      "tmdb_id": 55546,
+      "trakt_id": 112465,
+      "tvdb_id": 84726
+    },
+    "trakt_112465": {
+      "title": "The Smartest Man in the World",
+      "year": 2003,
+      "tmdb_id": 55546,
+      "trakt_id": 112465,
+      "tvdb_id": 84726
+    },
+    "tvdb_84726": {
+      "title": "The Smartest Man in the World",
+      "year": 2003,
+      "tmdb_id": 55546,
+      "trakt_id": 112465,
+      "tvdb_id": 84726
+    },
+    "tmdb_61852": {
+      "title": "Henry Danger",
+      "year": 2014,
+      "tmdb_id": 61852,
+      "trakt_id": 79317,
+      "tvdb_id": 284114
+    },
+    "trakt_79317": {
+      "title": "Henry Danger",
+      "year": 2014,
+      "tmdb_id": 61852,
+      "trakt_id": 79317,
+      "tvdb_id": 284114
+    },
+    "tvdb_284114": {
+      "title": "Henry Danger",
+      "year": 2014,
+      "tmdb_id": 61852,
+      "trakt_id": 79317,
+      "tvdb_id": 284114
+    },
+    "tmdb_34045": {
+      "title": "Sister Wives",
+      "year": 2010,
+      "tmdb_id": 34045,
+      "trakt_id": 33898,
+      "tvdb_id": 193711
+    },
+    "trakt_33898": {
+      "title": "Sister Wives",
+      "year": 2010,
+      "tmdb_id": 34045,
+      "trakt_id": 33898,
+      "tvdb_id": 193711
+    },
+    "tvdb_193711": {
+      "title": "Sister Wives",
+      "year": 2010,
+      "tmdb_id": 34045,
+      "trakt_id": 33898,
+      "tvdb_id": 193711
+    },
+    "tmdb_40050": {
+      "title": "Daniel Tiger's Neighborhood",
+      "year": 2012,
+      "tmdb_id": 40050,
+      "trakt_id": 39867,
+      "tvdb_id": 261511
+    },
+    "trakt_39867": {
+      "title": "Daniel Tiger's Neighborhood",
+      "year": 2012,
+      "tmdb_id": 40050,
+      "trakt_id": 39867,
+      "tvdb_id": 261511
+    },
+    "tvdb_261511": {
+      "title": "Daniel Tiger's Neighborhood",
+      "year": 2012,
+      "tmdb_id": 40050,
+      "trakt_id": 39867,
+      "tvdb_id": 261511
+    },
+    "tmdb_202879": {
+      "title": "Star Wars: Skeleton Crew",
+      "year": 2024,
+      "tmdb_id": 202879,
+      "trakt_id": 195711,
+      "tvdb_id": 420600
+    },
+    "trakt_195711": {
+      "title": "Star Wars: Skeleton Crew",
+      "year": 2024,
+      "tmdb_id": 202879,
+      "trakt_id": 195711,
+      "tvdb_id": 420600
+    },
+    "tvdb_420600": {
+      "title": "Star Wars: Skeleton Crew",
+      "year": 2024,
+      "tmdb_id": 202879,
+      "trakt_id": 195711,
+      "tvdb_id": 420600
+    },
+    "tmdb_55808": {
+      "title": "Gogglebox",
+      "year": 2013,
+      "tmdb_id": 55808,
+      "trakt_id": 70002,
+      "tvdb_id": 268009
+    },
+    "trakt_70002": {
+      "title": "Gogglebox",
+      "year": 2013,
+      "tmdb_id": 55808,
+      "trakt_id": 70002,
+      "tvdb_id": 268009
+    },
+    "tvdb_268009": {
+      "title": "Gogglebox",
+      "year": 2013,
+      "tmdb_id": 55808,
+      "trakt_id": 70002,
+      "tvdb_id": 268009
+    },
+    "tmdb_201836": {
+      "title": "The Way Home",
+      "year": 2023,
+      "tmdb_id": 201836,
+      "trakt_id": 199852,
+      "tvdb_id": 421842
+    },
+    "trakt_199852": {
+      "title": "The Way Home",
+      "year": 2023,
+      "tmdb_id": 201836,
+      "trakt_id": 199852,
+      "tvdb_id": 421842
+    },
+    "tvdb_421842": {
+      "title": "The Way Home",
+      "year": 2023,
+      "tmdb_id": 201836,
+      "trakt_id": 199852,
+      "tvdb_id": 421842
+    },
+    "tmdb_62543": {
+      "title": "7 Little Johnstons",
+      "year": 2015,
+      "tmdb_id": 62543,
+      "trakt_id": 97807,
+      "tvdb_id": 293989
+    },
+    "trakt_97807": {
+      "title": "7 Little Johnstons",
+      "year": 2015,
+      "tmdb_id": 62543,
+      "trakt_id": 97807,
+      "tvdb_id": 293989
+    },
+    "tvdb_293989": {
+      "title": "7 Little Johnstons",
+      "year": 2015,
+      "tmdb_id": 62543,
+      "trakt_id": 97807,
+      "tvdb_id": 293989
+    },
+    "tmdb_106009": {
+      "title": "Numberblocks",
+      "year": 2016,
+      "tmdb_id": 106009,
+      "trakt_id": 116079,
+      "tvdb_id": 323043
+    },
+    "trakt_116079": {
+      "title": "Numberblocks",
+      "year": 2016,
+      "tmdb_id": 106009,
+      "trakt_id": 116079,
+      "tvdb_id": 323043
+    },
+    "tvdb_323043": {
+      "title": "Numberblocks",
+      "year": 2016,
+      "tmdb_id": 106009,
+      "trakt_id": 116079,
+      "tvdb_id": 323043
+    },
+    "tmdb_32815": {
+      "title": "Raising Hope",
+      "year": 2010,
+      "tmdb_id": 32815,
+      "trakt_id": 32674,
+      "tvdb_id": 164021
+    },
+    "trakt_32674": {
+      "title": "Raising Hope",
+      "year": 2010,
+      "tmdb_id": 32815,
+      "trakt_id": 32674,
+      "tvdb_id": 164021
+    },
+    "tvdb_164021": {
+      "title": "Raising Hope",
+      "year": 2010,
+      "tmdb_id": 32815,
+      "trakt_id": 32674,
+      "tvdb_id": 164021
+    },
+    "tmdb_18123": {
+      "title": "Scooby-Doo! Mystery Incorporated",
+      "year": 2010,
+      "tmdb_id": 18123,
+      "trakt_id": 18042,
+      "tvdb_id": 174681
+    },
+    "trakt_18042": {
+      "title": "Scooby-Doo! Mystery Incorporated",
+      "year": 2010,
+      "tmdb_id": 18123,
+      "trakt_id": 18042,
+      "tvdb_id": 174681
+    },
+    "tvdb_174681": {
+      "title": "Scooby-Doo! Mystery Incorporated",
+      "year": 2010,
+      "tmdb_id": 18123,
+      "trakt_id": 18042,
+      "tvdb_id": 174681
+    },
+    "tmdb_1781": {
+      "title": "Little House on the Prairie",
+      "year": 1974,
+      "tmdb_id": 1781,
+      "trakt_id": 1769,
+      "tvdb_id": 77921
+    },
+    "trakt_1769": {
+      "title": "Little House on the Prairie",
+      "year": 1974,
+      "tmdb_id": 1781,
+      "trakt_id": 1769,
+      "tvdb_id": 77921
+    },
+    "tvdb_77921": {
+      "title": "Little House on the Prairie",
+      "year": 1974,
+      "tmdb_id": 1781,
+      "trakt_id": 1769,
+      "tvdb_id": 77921
+    },
+    "tmdb_2674": {
+      "title": "Neighbours",
+      "year": 1985,
+      "tmdb_id": 2674,
+      "trakt_id": 2656,
+      "tvdb_id": 76719
+    },
+    "trakt_2656": {
+      "title": "Neighbours",
+      "year": 1985,
+      "tmdb_id": 2674,
+      "trakt_id": 2656,
+      "tvdb_id": 76719
+    },
+    "tvdb_76719": {
+      "title": "Neighbours",
+      "year": 1985,
+      "tmdb_id": 2674,
+      "trakt_id": 2656,
+      "tvdb_id": 76719
+    },
+    "tmdb_1777": {
+      "title": "Boy Meets World",
+      "year": 1993,
+      "tmdb_id": 1777,
+      "trakt_id": 1765,
+      "tvdb_id": 71889
+    },
+    "trakt_1765": {
+      "title": "Boy Meets World",
+      "year": 1993,
+      "tmdb_id": 1777,
+      "trakt_id": 1765,
+      "tvdb_id": 71889
+    },
+    "tvdb_71889": {
+      "title": "Boy Meets World",
+      "year": 1993,
+      "tmdb_id": 1777,
+      "trakt_id": 1765,
+      "tvdb_id": 71889
+    },
+    "tmdb_656": {
+      "title": "Curious George",
+      "year": 2006,
+      "tmdb_id": 656,
+      "trakt_id": 654,
+      "tvdb_id": 79429
+    },
+    "trakt_654": {
+      "title": "Curious George",
+      "year": 2006,
+      "tmdb_id": 656,
+      "trakt_id": 654,
+      "tvdb_id": 79429
+    },
+    "tvdb_79429": {
+      "title": "Curious George",
+      "year": 2006,
+      "tmdb_id": 656,
+      "trakt_id": 654,
+      "tvdb_id": 79429
+    },
+    "tmdb_256953": {
+      "title": "Bluey Minisodes",
+      "year": 2024,
+      "tmdb_id": 256953,
+      "trakt_id": 244480,
+      "tvdb_id": 451293
+    },
+    "trakt_244480": {
+      "title": "Bluey Minisodes",
+      "year": 2024,
+      "tmdb_id": 256953,
+      "trakt_id": 244480,
+      "tvdb_id": 451293
+    },
+    "tvdb_451293": {
+      "title": "Bluey Minisodes",
+      "year": 2024,
+      "tmdb_id": 256953,
+      "trakt_id": 244480,
+      "tvdb_id": 451293
+    },
+    "tmdb_4482": {
+      "title": "Bewitched",
+      "year": 1964,
+      "tmdb_id": 4482,
+      "trakt_id": 4458,
+      "tvdb_id": 71528
+    },
+    "trakt_4458": {
+      "title": "Bewitched",
+      "year": 1964,
+      "tmdb_id": 4482,
+      "trakt_id": 4458,
+      "tvdb_id": 71528
+    },
+    "tvdb_71528": {
+      "title": "Bewitched",
+      "year": 1964,
+      "tmdb_id": 4482,
+      "trakt_id": 4458,
+      "tvdb_id": 71528
+    },
+    "tmdb_34356": {
+      "title": "Tron: Uprising",
+      "year": 2012,
+      "tmdb_id": 34356,
+      "trakt_id": 34209,
+      "tvdb_id": 258480
+    },
+    "trakt_34209": {
+      "title": "Tron: Uprising",
+      "year": 2012,
+      "tmdb_id": 34356,
+      "trakt_id": 34209,
+      "tvdb_id": 258480
+    },
+    "tvdb_258480": {
+      "title": "Tron: Uprising",
+      "year": 2012,
+      "tmdb_id": 34356,
+      "trakt_id": 34209,
+      "tvdb_id": 258480
+    },
+    "tmdb_64198": {
+      "title": "Blaze and the Monster Machines",
+      "year": 2014,
+      "tmdb_id": 64198,
+      "trakt_id": 81149,
+      "tvdb_id": 287036
+    },
+    "trakt_81149": {
+      "title": "Blaze and the Monster Machines",
+      "year": 2014,
+      "tmdb_id": 64198,
+      "trakt_id": 81149,
+      "tvdb_id": 287036
+    },
+    "tvdb_287036": {
+      "title": "Blaze and the Monster Machines",
+      "year": 2014,
+      "tmdb_id": 64198,
+      "trakt_id": 81149,
+      "tvdb_id": 287036
+    },
+    "tmdb_38974": {
+      "title": "Jessie",
+      "year": 2011,
+      "tmdb_id": 38974,
+      "trakt_id": 38811,
+      "tvdb_id": 252312
+    },
+    "trakt_38811": {
+      "title": "Jessie",
+      "year": 2011,
+      "tmdb_id": 38974,
+      "trakt_id": 38811,
+      "tvdb_id": 252312
+    },
+    "tvdb_252312": {
+      "title": "Jessie",
+      "year": 2011,
+      "tmdb_id": 38974,
+      "trakt_id": 38811,
+      "tvdb_id": 252312
+    },
+    "tmdb_68073": {
+      "title": "The Loud House",
+      "year": 2016,
+      "tmdb_id": 68073,
+      "trakt_id": 106798,
+      "tvdb_id": 309726
+    },
+    "trakt_106798": {
+      "title": "The Loud House",
+      "year": 2016,
+      "tmdb_id": 68073,
+      "trakt_id": 106798,
+      "tvdb_id": 309726
+    },
+    "tvdb_309726": {
+      "title": "The Loud House",
+      "year": 2016,
+      "tmdb_id": 68073,
+      "trakt_id": 106798,
+      "tvdb_id": 309726
+    },
+    "tmdb_58981": {
+      "title": "The Thundermans",
+      "year": 2013,
+      "tmdb_id": 58981,
+      "trakt_id": 58592,
+      "tvdb_id": 274283
+    },
+    "trakt_58592": {
+      "title": "The Thundermans",
+      "year": 2013,
+      "tmdb_id": 58981,
+      "trakt_id": 58592,
+      "tvdb_id": 274283
+    },
+    "tvdb_274283": {
+      "title": "The Thundermans",
+      "year": 2013,
+      "tmdb_id": 58981,
+      "trakt_id": 58592,
+      "tvdb_id": 274283
+    },
+    "tmdb_106": {
+      "title": "The Andy Griffith Show",
+      "year": 1960,
+      "tmdb_id": 106,
+      "trakt_id": 105,
+      "tvdb_id": 77754
+    },
+    "trakt_105": {
+      "title": "The Andy Griffith Show",
+      "year": 1960,
+      "tmdb_id": 106,
+      "trakt_id": 105,
+      "tvdb_id": 77754
+    },
+    "tvdb_77754": {
+      "title": "The Andy Griffith Show",
+      "year": 1960,
+      "tmdb_id": 106,
+      "trakt_id": 105,
+      "tvdb_id": 77754
+    },
+    "tmdb_65493": {
+      "title": "The Ranch",
+      "year": 2016,
+      "tmdb_id": 65493,
+      "trakt_id": 104750,
+      "tvdb_id": 305165
+    },
+    "trakt_104750": {
+      "title": "The Ranch",
+      "year": 2016,
+      "tmdb_id": 65493,
+      "trakt_id": 104750,
+      "tvdb_id": 305165
+    },
+    "tvdb_305165": {
+      "title": "The Ranch",
+      "year": 2016,
+      "tmdb_id": 65493,
+      "trakt_id": 104750,
+      "tvdb_id": 305165
+    },
+    "tmdb_926": {
+      "title": "Scooby-Doo, Where Are You!",
+      "year": 1969,
+      "tmdb_id": 926,
+      "trakt_id": 921,
+      "tvdb_id": 78260
+    },
+    "trakt_921": {
+      "title": "Scooby-Doo, Where Are You!",
+      "year": 1969,
+      "tmdb_id": 926,
+      "trakt_id": 921,
+      "tvdb_id": 78260
+    },
+    "tvdb_78260": {
+      "title": "Scooby-Doo, Where Are You!",
+      "year": 1969,
+      "tmdb_id": 926,
+      "trakt_id": 921,
+      "tvdb_id": 78260
+    },
+    "tmdb_31934": {
+      "title": "Solsidan",
+      "year": 2010,
+      "tmdb_id": 31934,
+      "trakt_id": 31794,
+      "tvdb_id": 138531
+    },
+    "trakt_31794": {
+      "title": "Solsidan",
+      "year": 2010,
+      "tmdb_id": 31934,
+      "trakt_id": 31794,
+      "tvdb_id": 138531
+    },
+    "tvdb_138531": {
+      "title": "Solsidan",
+      "year": 2010,
+      "tmdb_id": 31934,
+      "trakt_id": 31794,
+      "tvdb_id": 138531
+    },
+    "tmdb_80587": {
+      "title": "Big City Greens",
+      "year": 2018,
+      "tmdb_id": 80587,
+      "trakt_id": 127503,
+      "tvdb_id": 342059
+    },
+    "trakt_127503": {
+      "title": "Big City Greens",
+      "year": 2018,
+      "tmdb_id": 80587,
+      "trakt_id": 127503,
+      "tvdb_id": 342059
+    },
+    "tvdb_342059": {
+      "title": "Big City Greens",
+      "year": 2018,
+      "tmdb_id": 80587,
+      "trakt_id": 127503,
+      "tvdb_id": 342059
+    },
+    "tmdb_88754": {
+      "title": "LEGO Masters (AU)",
+      "year": 2019,
+      "tmdb_id": 88754,
+      "trakt_id": 146610,
+      "tvdb_id": 362540
+    },
+    "trakt_146610": {
+      "title": "LEGO Masters (AU)",
+      "year": 2019,
+      "tmdb_id": 88754,
+      "trakt_id": 146610,
+      "tvdb_id": 362540
+    },
+    "tvdb_362540": {
+      "title": "LEGO Masters (AU)",
+      "year": 2019,
+      "tmdb_id": 88754,
+      "trakt_id": 146610,
+      "tvdb_id": 362540
+    },
+    "tmdb_74415": {
+      "title": "Grizzy & the Lemmings",
+      "year": 2017,
+      "tmdb_id": 74415,
+      "trakt_id": 112476,
+      "tvdb_id": 318687
+    },
+    "trakt_112476": {
+      "title": "Grizzy & the Lemmings",
+      "year": 2017,
+      "tmdb_id": 74415,
+      "trakt_id": 112476,
+      "tvdb_id": 318687
+    },
+    "tvdb_318687": {
+      "title": "Grizzy & the Lemmings",
+      "year": 2017,
+      "tmdb_id": 74415,
+      "trakt_id": 112476,
+      "tvdb_id": 318687
+    },
+    "tmdb_4610": {
+      "title": "Hannah Montana",
+      "year": 2006,
+      "tmdb_id": 4610,
+      "trakt_id": 4586,
+      "tvdb_id": 79317
+    },
+    "trakt_4586": {
+      "title": "Hannah Montana",
+      "year": 2006,
+      "tmdb_id": 4610,
+      "trakt_id": 4586,
+      "tvdb_id": 79317
+    },
+    "tvdb_79317": {
+      "title": "Hannah Montana",
+      "year": 2006,
+      "tmdb_id": 4610,
+      "trakt_id": 4586,
+      "tvdb_id": 79317
+    },
+    "tmdb_14009": {
+      "title": "The Addams Family",
+      "year": 1964,
+      "tmdb_id": 14009,
+      "trakt_id": 13948,
+      "tvdb_id": 77137
+    },
+    "trakt_13948": {
+      "title": "The Addams Family",
+      "year": 1964,
+      "tmdb_id": 14009,
+      "trakt_id": 13948,
+      "tvdb_id": 77137
+    },
+    "tvdb_77137": {
+      "title": "The Addams Family",
+      "year": 1964,
+      "tmdb_id": 14009,
+      "trakt_id": 13948,
+      "tvdb_id": 77137
+    },
+    "tmdb_4500": {
+      "title": "The Wonder Years",
+      "year": 1988,
+      "tmdb_id": 4500,
+      "trakt_id": 4476,
+      "tvdb_id": 72888
+    },
+    "trakt_4476": {
+      "title": "The Wonder Years",
+      "year": 1988,
+      "tmdb_id": 4500,
+      "trakt_id": 4476,
+      "tvdb_id": 72888
+    },
+    "tvdb_72888": {
+      "title": "The Wonder Years",
+      "year": 1988,
+      "tmdb_id": 4500,
+      "trakt_id": 4476,
+      "tvdb_id": 72888
+    },
+    "tmdb_63401": {
+      "title": "We Bare Bears",
+      "year": 2015,
+      "tmdb_id": 63401,
+      "trakt_id": 100149,
+      "tvdb_id": 297271
+    },
+    "trakt_100149": {
+      "title": "We Bare Bears",
+      "year": 2015,
+      "tmdb_id": 63401,
+      "trakt_id": 100149,
+      "tvdb_id": 297271
+    },
+    "tvdb_297271": {
+      "title": "We Bare Bears",
+      "year": 2015,
+      "tmdb_id": 63401,
+      "trakt_id": 100149,
+      "tvdb_id": 297271
+    },
+    "tmdb_1018": {
+      "title": "Bonanza",
+      "year": 1959,
+      "tmdb_id": 1018,
+      "trakt_id": 1013,
+      "tvdb_id": 73378
+    },
+    "trakt_1013": {
+      "title": "Bonanza",
+      "year": 1959,
+      "tmdb_id": 1018,
+      "trakt_id": 1013,
+      "tvdb_id": 73378
+    },
+    "tvdb_73378": {
+      "title": "Bonanza",
+      "year": 1959,
+      "tmdb_id": 1018,
+      "trakt_id": 1013,
+      "tvdb_id": 73378
+    },
+    "tmdb_2778": {
+      "title": "Wheel of Fortune",
+      "year": 1983,
+      "tmdb_id": 2778,
+      "trakt_id": 2760,
+      "tvdb_id": 76573
+    },
+    "trakt_2760": {
+      "title": "Wheel of Fortune",
+      "year": 1983,
+      "tmdb_id": 2778,
+      "trakt_id": 2760,
+      "tvdb_id": 76573
+    },
+    "tvdb_76573": {
+      "title": "Wheel of Fortune",
+      "year": 1983,
+      "tmdb_id": 2778,
+      "trakt_id": 2760,
+      "tvdb_id": 76573
+    },
+    "tmdb_40": {
+      "title": "Dallas",
+      "year": 1978,
+      "tmdb_id": 40,
+      "trakt_id": 40,
+      "tvdb_id": 77092
+    },
+    "trakt_40": {
+      "title": "Dallas",
+      "year": 1978,
+      "tmdb_id": 40,
+      "trakt_id": 40,
+      "tvdb_id": 77092
+    },
+    "tvdb_77092": {
+      "title": "Dallas",
+      "year": 1978,
+      "tmdb_id": 40,
+      "trakt_id": 40,
+      "tvdb_id": 77092
+    },
+    "tmdb_65733": {
+      "title": "Doraemon",
+      "year": 2005,
+      "tmdb_id": 65733,
+      "trakt_id": 82026,
+      "tvdb_id": 281405
+    },
+    "trakt_82026": {
+      "title": "Doraemon",
+      "year": 2005,
+      "tmdb_id": 65733,
+      "trakt_id": 82026,
+      "tvdb_id": 281405
+    },
+    "tvdb_281405": {
+      "title": "Doraemon",
+      "year": 2005,
+      "tmdb_id": 65733,
+      "trakt_id": 82026,
+      "tvdb_id": 281405
+    },
+    "tmdb_64709": {
+      "title": "My Own Swordsman",
+      "year": 2006,
+      "tmdb_id": 64709,
+      "trakt_id": 75169,
+      "tvdb_id": 243701
+    },
+    "trakt_75169": {
+      "title": "My Own Swordsman",
+      "year": 2006,
+      "tmdb_id": 64709,
+      "trakt_id": 75169,
+      "tvdb_id": 243701
+    },
+    "tvdb_243701": {
+      "title": "My Own Swordsman",
+      "year": 2006,
+      "tmdb_id": 64709,
+      "trakt_id": 75169,
+      "tvdb_id": 243701
+    },
+    "tmdb_103540": {
+      "title": "Percy Jackson and the Olympians",
+      "year": 2023,
+      "tmdb_id": 103540,
+      "trakt_id": 194518,
+      "tvdb_id": 415151
+    },
+    "trakt_194518": {
+      "title": "Percy Jackson and the Olympians",
+      "year": 2023,
+      "tmdb_id": 103540,
+      "trakt_id": 194518,
+      "tvdb_id": 415151
+    },
+    "tvdb_415151": {
+      "title": "Percy Jackson and the Olympians",
+      "year": 2023,
+      "tmdb_id": 103540,
+      "trakt_id": 194518,
+      "tvdb_id": 415151
+    },
+    "tmdb_93741": {
+      "title": "Jurassic World: Camp Cretaceous",
+      "year": 2020,
+      "tmdb_id": 93741,
+      "trakt_id": 148724,
+      "tvdb_id": 365066
+    },
+    "trakt_148724": {
+      "title": "Jurassic World: Camp Cretaceous",
+      "year": 2020,
+      "tmdb_id": 93741,
+      "trakt_id": 148724,
+      "tvdb_id": 365066
+    },
+    "tvdb_365066": {
+      "title": "Jurassic World: Camp Cretaceous",
+      "year": 2020,
+      "tmdb_id": 93741,
+      "trakt_id": 148724,
+      "tvdb_id": 365066
+    },
+    "tmdb_85349": {
+      "title": "Amphibia",
+      "year": 2019,
+      "tmdb_id": 85349,
+      "trakt_id": 134719,
+      "tvdb_id": 350984
+    },
+    "trakt_134719": {
+      "title": "Amphibia",
+      "year": 2019,
+      "tmdb_id": 85349,
+      "trakt_id": 134719,
+      "tvdb_id": 350984
+    },
+    "tvdb_350984": {
+      "title": "Amphibia",
+      "year": 2019,
+      "tmdb_id": 85349,
+      "trakt_id": 134719,
+      "tvdb_id": 350984
+    },
+    "tmdb_1950": {
+      "title": "Everwood",
+      "year": 2002,
+      "tmdb_id": 1950,
+      "trakt_id": 1937,
+      "tvdb_id": 78465
+    },
+    "trakt_1937": {
+      "title": "Everwood",
+      "year": 2002,
+      "tmdb_id": 1950,
+      "trakt_id": 1937,
+      "tvdb_id": 78465
+    },
+    "tvdb_78465": {
+      "title": "Everwood",
+      "year": 2002,
+      "tmdb_id": 1950,
+      "trakt_id": 1937,
+      "tvdb_id": 78465
+    },
+    "tmdb_94064": {
+      "title": "LEGO Masters",
+      "year": 2020,
+      "tmdb_id": 94064,
+      "trakt_id": 153312,
+      "tvdb_id": 370166
+    },
+    "trakt_153312": {
+      "title": "LEGO Masters",
+      "year": 2020,
+      "tmdb_id": 94064,
+      "trakt_id": 153312,
+      "tvdb_id": 370166
+    },
+    "tvdb_370166": {
+      "title": "LEGO Masters",
+      "year": 2020,
+      "tmdb_id": 94064,
+      "trakt_id": 153312,
+      "tvdb_id": 370166
+    },
+    "tmdb_70785": {
+      "title": "Anne with an E",
+      "year": 2017,
+      "tmdb_id": 70785,
+      "trakt_id": 116043,
+      "tvdb_id": 322971
+    },
+    "trakt_116043": {
+      "title": "Anne with an E",
+      "year": 2017,
+      "tmdb_id": 70785,
+      "trakt_id": 116043,
+      "tvdb_id": 322971
+    },
+    "tvdb_322971": {
+      "title": "Anne with an E",
+      "year": 2017,
+      "tmdb_id": 70785,
+      "trakt_id": 116043,
+      "tvdb_id": 322971
+    },
+    "tmdb_82452": {
+      "title": "Avatar: The Last Airbender",
+      "year": 2024,
+      "tmdb_id": 82452,
+      "trakt_id": 136561,
+      "tvdb_id": 385925
+    },
+    "trakt_136561": {
+      "title": "Avatar: The Last Airbender",
+      "year": 2024,
+      "tmdb_id": 82452,
+      "trakt_id": 136561,
+      "tvdb_id": 385925
+    },
+    "tvdb_385925": {
+      "title": "Avatar: The Last Airbender",
+      "year": 2024,
+      "tmdb_id": 82452,
+      "trakt_id": 136561,
+      "tvdb_id": 385925
+    },
+    "tmdb_4658": {
+      "title": "ALF",
+      "year": 1986,
+      "tmdb_id": 4658,
+      "trakt_id": 4634,
+      "tvdb_id": 78020
+    },
+    "trakt_4634": {
+      "title": "ALF",
+      "year": 1986,
+      "tmdb_id": 4658,
+      "trakt_id": 4634,
+      "tvdb_id": 78020
+    },
+    "tvdb_78020": {
+      "title": "ALF",
+      "year": 1986,
+      "tmdb_id": 4658,
+      "trakt_id": 4634,
+      "tvdb_id": 78020
+    },
+    "tmdb_2085": {
+      "title": "Courage the Cowardly Dog",
+      "year": 1999,
+      "tmdb_id": 2085,
+      "trakt_id": 2072,
+      "tvdb_id": 77435
+    },
+    "trakt_2072": {
+      "title": "Courage the Cowardly Dog",
+      "year": 1999,
+      "tmdb_id": 2085,
+      "trakt_id": 2072,
+      "tvdb_id": 77435
+    },
+    "tvdb_77435": {
+      "title": "Courage the Cowardly Dog",
+      "year": 1999,
+      "tmdb_id": 2085,
+      "trakt_id": 2072,
+      "tvdb_id": 77435
+    },
+    "tmdb_2692": {
+      "title": "My Wife and Kids",
+      "year": 2001,
+      "tmdb_id": 2692,
+      "trakt_id": 2674,
+      "tvdb_id": 70329
+    },
+    "trakt_2674": {
+      "title": "My Wife and Kids",
+      "year": 2001,
+      "tmdb_id": 2692,
+      "trakt_id": 2674,
+      "tvdb_id": 70329
+    },
+    "tvdb_70329": {
+      "title": "My Wife and Kids",
+      "year": 2001,
+      "tmdb_id": 2692,
+      "trakt_id": 2674,
+      "tvdb_id": 70329
+    },
+    "tmdb_1996": {
+      "title": "The Flintstones",
+      "year": 1960,
+      "tmdb_id": 1996,
+      "trakt_id": 1983,
+      "tvdb_id": 76171
+    },
+    "trakt_1983": {
+      "title": "The Flintstones",
+      "year": 1960,
+      "tmdb_id": 1996,
+      "trakt_id": 1983,
+      "tvdb_id": 76171
+    },
+    "tvdb_76171": {
+      "title": "The Flintstones",
+      "year": 1960,
+      "tmdb_id": 1996,
+      "trakt_id": 1983,
+      "tvdb_id": 76171
+    },
+    "tmdb_21641": {
+      "title": "Good Luck Charlie",
+      "year": 2010,
+      "tmdb_id": 21641,
+      "trakt_id": 21540,
+      "tvdb_id": 154341
+    },
+    "trakt_21540": {
+      "title": "Good Luck Charlie",
+      "year": 2010,
+      "tmdb_id": 21641,
+      "trakt_id": 21540,
+      "tvdb_id": 154341
+    },
+    "tvdb_154341": {
+      "title": "Good Luck Charlie",
+      "year": 2010,
+      "tmdb_id": 21641,
+      "trakt_id": 21540,
+      "tvdb_id": 154341
+    },
+    "tmdb_1981": {
+      "title": "Charmed",
+      "year": 1998,
+      "tmdb_id": 1981,
+      "trakt_id": 1968,
+      "tvdb_id": 70626
+    },
+    "trakt_1968": {
+      "title": "Charmed",
+      "year": 1998,
+      "tmdb_id": 1981,
+      "trakt_id": 1968,
+      "tvdb_id": 70626
+    },
+    "tvdb_70626": {
+      "title": "Charmed",
+      "year": 1998,
+      "tmdb_id": 1981,
+      "trakt_id": 1968,
+      "tvdb_id": 70626
+    },
+    "tmdb_39272": {
+      "title": "Once Upon a Time",
+      "year": 2011,
+      "tmdb_id": 39272,
+      "trakt_id": 39108,
+      "tvdb_id": 248835
+    },
+    "trakt_39108": {
+      "title": "Once Upon a Time",
+      "year": 2011,
+      "tmdb_id": 39272,
+      "trakt_id": 39108,
+      "tvdb_id": 248835
+    },
+    "tvdb_248835": {
+      "title": "Once Upon a Time",
+      "year": 2011,
+      "tmdb_id": 39272,
+      "trakt_id": 39108,
+      "tvdb_id": 248835
+    },
+    "tmdb_117488": {
+      "title": "Yellowjackets",
+      "year": 2021,
+      "tmdb_id": 117488,
+      "trakt_id": 176276,
+      "tvdb_id": 399731
+    },
+    "trakt_176276": {
+      "title": "Yellowjackets",
+      "year": 2021,
+      "tmdb_id": 117488,
+      "trakt_id": 176276,
+      "tvdb_id": 399731
+    },
+    "tvdb_399731": {
+      "title": "Yellowjackets",
+      "year": 2021,
+      "tmdb_id": 117488,
+      "trakt_id": 176276,
+      "tvdb_id": 399731
+    },
+    "tmdb_86848": {
+      "title": "Evil",
+      "year": 2019,
+      "tmdb_id": 86848,
+      "trakt_id": 147814,
+      "tvdb_id": 363955
+    },
+    "trakt_147814": {
+      "title": "Evil",
+      "year": 2019,
+      "tmdb_id": 86848,
+      "trakt_id": 147814,
+      "tvdb_id": 363955
+    },
+    "tvdb_363955": {
+      "title": "Evil",
+      "year": 2019,
+      "tmdb_id": 86848,
+      "trakt_id": 147814,
+      "tvdb_id": 363955
+    },
+    "tmdb_6357": {
+      "title": "The Twilight Zone",
+      "year": 1959,
+      "tmdb_id": 6357,
+      "trakt_id": 6318,
+      "tvdb_id": 73587
+    },
+    "trakt_6318": {
+      "title": "The Twilight Zone",
+      "year": 1959,
+      "tmdb_id": 6357,
+      "trakt_id": 6318,
+      "tvdb_id": 73587
+    },
+    "tvdb_73587": {
+      "title": "The Twilight Zone",
+      "year": 1959,
+      "tmdb_id": 6357,
+      "trakt_id": 6318,
+      "tvdb_id": 73587
+    },
+    "tmdb_72844": {
+      "title": "The Haunting of Hill House",
+      "year": 2018,
+      "tmdb_id": 72844,
+      "trakt_id": 134526,
+      "tvdb_id": 345246
+    },
+    "trakt_134526": {
+      "title": "The Haunting of Hill House",
+      "year": 2018,
+      "tmdb_id": 72844,
+      "trakt_id": 134526,
+      "tvdb_id": 345246
+    },
+    "tvdb_345246": {
+      "title": "The Haunting of Bly Manor",
+      "year": 2020,
+      "tmdb_id": 109958,
+      "trakt_id": 169891,
+      "tvdb_id": 345246
+    },
+    "tmdb_47640": {
+      "title": "The Strain",
+      "year": 2014,
+      "tmdb_id": 47640,
+      "trakt_id": 47350,
+      "tvdb_id": 276564
+    },
+    "trakt_47350": {
+      "title": "The Strain",
+      "year": 2014,
+      "tmdb_id": 47640,
+      "trakt_id": 47350,
+      "tvdb_id": 276564
+    },
+    "tvdb_276564": {
+      "title": "The Strain",
+      "year": 2014,
+      "tmdb_id": 47640,
+      "trakt_id": 47350,
+      "tvdb_id": 276564
+    },
+    "tmdb_97400": {
+      "title": "Midnight Mass",
+      "year": 2021,
+      "tmdb_id": 97400,
+      "trakt_id": 157085,
+      "tvdb_id": 367226
+    },
+    "trakt_157085": {
+      "title": "Midnight Mass",
+      "year": 2021,
+      "tmdb_id": 97400,
+      "trakt_id": 157085,
+      "tvdb_id": 367226
+    },
+    "tvdb_367226": {
+      "title": "Midnight Mass",
+      "year": 2021,
+      "tmdb_id": 97400,
+      "trakt_id": 157085,
+      "tvdb_id": 367226
+    },
+    "tmdb_88055": {
+      "title": "Servant",
+      "year": 2019,
+      "tmdb_id": 88055,
+      "trakt_id": 152779,
+      "tvdb_id": 368126
+    },
+    "trakt_152779": {
+      "title": "Servant",
+      "year": 2019,
+      "tmdb_id": 88055,
+      "trakt_id": 152779,
+      "tvdb_id": 368126
+    },
+    "tvdb_368126": {
+      "title": "Servant",
+      "year": 2019,
+      "tmdb_id": 88055,
+      "trakt_id": 152779,
+      "tvdb_id": 368126
+    },
+    "tmdb_207863": {
+      "title": "Mayfair Witches",
+      "year": 2023,
+      "tmdb_id": 207863,
+      "trakt_id": 197457,
+      "tvdb_id": 413074
+    },
+    "trakt_197457": {
+      "title": "Mayfair Witches",
+      "year": 2023,
+      "tmdb_id": 207863,
+      "trakt_id": 197457,
+      "tvdb_id": 413074
+    },
+    "tvdb_413074": {
+      "title": "Mayfair Witches",
+      "year": 2023,
+      "tmdb_id": 207863,
+      "trakt_id": 197457,
+      "tvdb_id": 413074
+    },
+    "tmdb_229711": {
+      "title": "The Bondsman",
+      "year": 2025,
+      "tmdb_id": 229711,
+      "trakt_id": 207008,
+      "tvdb_id": 436695
+    },
+    "trakt_207008": {
+      "title": "The Bondsman",
+      "year": 2025,
+      "tmdb_id": 229711,
+      "trakt_id": 207008,
+      "tvdb_id": 436695
+    },
+    "tvdb_436695": {
+      "title": "The Bondsman",
+      "year": 2025,
+      "tmdb_id": 229711,
+      "trakt_id": 207008,
+      "tvdb_id": 436695
+    },
+    "tmdb_210079": {
+      "title": "The Boulet Brothers' Dragula: Titans",
+      "year": 2022,
+      "tmdb_id": 210079,
+      "trakt_id": 198179,
+      "tvdb_id": 424698
+    },
+    "trakt_198179": {
+      "title": "The Boulet Brothers' Dragula: Titans",
+      "year": 2022,
+      "tmdb_id": 210079,
+      "trakt_id": 198179,
+      "tvdb_id": 424698
+    },
+    "tvdb_424698": {
+      "title": "The Boulet Brothers' Dragula: Titans",
+      "year": 2022,
+      "tmdb_id": 210079,
+      "trakt_id": 198179,
+      "tvdb_id": 424698
+    },
+    "tmdb_2391": {
+      "title": "Tales from the Crypt",
+      "year": 1989,
+      "tmdb_id": 2391,
+      "trakt_id": 2377,
+      "tvdb_id": 73029
+    },
+    "trakt_2377": {
+      "title": "Tales from the Crypt",
+      "year": 1989,
+      "tmdb_id": 2391,
+      "trakt_id": 2377,
+      "tvdb_id": 73029
+    },
+    "tvdb_73029": {
+      "title": "Tales from the Crypt",
+      "year": 1989,
+      "tmdb_id": 2391,
+      "trakt_id": 2377,
+      "tvdb_id": 73029
+    },
+    "tmdb_84661": {
+      "title": "The Outsider",
+      "year": 2020,
+      "tmdb_id": 84661,
+      "trakt_id": 154221,
+      "tvdb_id": 365480
+    },
+    "trakt_154221": {
+      "title": "The Outsider",
+      "year": 2020,
+      "tmdb_id": 84661,
+      "trakt_id": 154221,
+      "tvdb_id": 365480
+    },
+    "tvdb_365480": {
+      "title": "The Outsider",
+      "year": 2020,
+      "tmdb_id": 84661,
+      "trakt_id": 154221,
+      "tvdb_id": 365480
+    },
+    "tmdb_61374": {
+      "title": "Tokyo Ghoul",
+      "year": 2014,
+      "tmdb_id": 61374,
+      "trakt_id": 77558,
+      "tvdb_id": 281249
+    },
+    "trakt_77558": {
+      "title": "Tokyo Ghoul",
+      "year": 2014,
+      "tmdb_id": 61374,
+      "trakt_id": 77558,
+      "tvdb_id": 281249
+    },
+    "tvdb_281249": {
+      "title": "Tokyo Ghoul",
+      "year": 2014,
+      "tmdb_id": 61374,
+      "trakt_id": 77558,
+      "tvdb_id": 281249
+    },
+    "tmdb_71116": {
+      "title": "Castle Rock",
+      "year": 2018,
+      "tmdb_id": 71116,
+      "trakt_id": 123489,
+      "tvdb_id": 331600
+    },
+    "trakt_123489": {
+      "title": "Castle Rock",
+      "year": 2018,
+      "tmdb_id": 71116,
+      "trakt_id": 123489,
+      "tvdb_id": 331600
+    },
+    "tvdb_331600": {
+      "title": "Castle Rock",
+      "year": 2018,
+      "tmdb_id": 71116,
+      "trakt_id": 123489,
+      "tvdb_id": 331600
+    },
+    "tmdb_90462": {
+      "title": "Chucky",
+      "year": 2021,
+      "tmdb_id": 90462,
+      "trakt_id": 133405,
+      "tvdb_id": 349415
+    },
+    "trakt_133405": {
+      "title": "Chucky",
+      "year": 2021,
+      "tmdb_id": 90462,
+      "trakt_id": 133405,
+      "tvdb_id": 349415
+    },
+    "tvdb_349415": {
+      "title": "Chucky",
+      "year": 2021,
+      "tmdb_id": 90462,
+      "trakt_id": 133405,
+      "tvdb_id": 349415
+    },
+    "tmdb_247721": {
+      "title": "Teacup",
+      "year": 2024,
+      "tmdb_id": 247721,
+      "trakt_id": 228469,
+      "tvdb_id": 446180
+    },
+    "trakt_228469": {
+      "title": "Teacup",
+      "year": 2024,
+      "tmdb_id": 247721,
+      "trakt_id": 228469,
+      "tvdb_id": 446180
+    },
+    "tvdb_446180": {
+      "title": "Teacup",
+      "year": 2024,
+      "tmdb_id": 247721,
+      "trakt_id": 228469,
+      "tvdb_id": 446180
+    },
+    "tmdb_64464": {
+      "title": "11.22.63",
+      "year": 2016,
+      "tmdb_id": 64464,
+      "trakt_id": 102771,
+      "tvdb_id": 301824
+    },
+    "trakt_102771": {
+      "title": "11.22.63",
+      "year": 2016,
+      "tmdb_id": 64464,
+      "trakt_id": 102771,
+      "tvdb_id": 301824
+    },
+    "tvdb_301824": {
+      "title": "11.22.63",
+      "year": 2016,
+      "tmdb_id": 64464,
+      "trakt_id": 102771,
+      "tvdb_id": 301824
+    },
+    "tmdb_5835": {
+      "title": "Goosebumps",
+      "year": 1995,
+      "tmdb_id": 5835,
+      "trakt_id": 5798,
+      "tvdb_id": 78790
+    },
+    "trakt_5798": {
+      "title": "Goosebumps",
+      "year": 1995,
+      "tmdb_id": 5835,
+      "trakt_id": 5798,
+      "tvdb_id": 78790
+    },
+    "tvdb_78790": {
+      "title": "Goosebumps",
+      "year": 1995,
+      "tmdb_id": 5835,
+      "trakt_id": 5798,
+      "tvdb_id": 78790
+    },
+    "tmdb_62264": {
+      "title": "Ash vs Evil Dead",
+      "year": 2015,
+      "tmdb_id": 62264,
+      "trakt_id": 99460,
+      "tvdb_id": 296295
+    },
+    "trakt_99460": {
+      "title": "Ash vs Evil Dead",
+      "year": 2015,
+      "tmdb_id": 62264,
+      "trakt_id": 99460,
+      "tvdb_id": 296295
+    },
+    "tvdb_296295": {
+      "title": "Ash vs Evil Dead",
+      "year": 2015,
+      "tmdb_id": 62264,
+      "trakt_id": 99460,
+      "tvdb_id": 296295
+    },
+    "tmdb_231727": {
+      "title": "Wolf King",
+      "year": 2025,
+      "tmdb_id": 231727,
+      "trakt_id": 243464,
+      "tvdb_id": 450945
+    },
+    "trakt_243464": {
+      "title": "Wolf King",
+      "year": 2025,
+      "tmdb_id": 231727,
+      "trakt_id": 243464,
+      "tvdb_id": 450945
+    },
+    "tvdb_450945": {
+      "title": "Wolf King",
+      "year": 2025,
+      "tmdb_id": 231727,
+      "trakt_id": 243464,
+      "tvdb_id": 450945
+    },
+    "tmdb_157065": {
+      "title": "The Fall of the House of Usher",
+      "year": 2023,
+      "tmdb_id": 157065,
+      "trakt_id": 189388,
+      "tvdb_id": 411021
+    },
+    "trakt_189388": {
+      "title": "The Fall of the House of Usher",
+      "year": 2023,
+      "tmdb_id": 157065,
+      "trakt_id": 189388,
+      "tvdb_id": 411021
+    },
+    "tvdb_411021": {
+      "title": "The Fall of the House of Usher",
+      "year": 2023,
+      "tmdb_id": 157065,
+      "trakt_id": 189388,
+      "tvdb_id": 411021
+    },
+    "tmdb_62046": {
+      "title": "Scream Queens",
+      "year": 2015,
+      "tmdb_id": 62046,
+      "trakt_id": 96979,
+      "tvdb_id": 293302
+    },
+    "trakt_96979": {
+      "title": "Scream Queens",
+      "year": 2015,
+      "tmdb_id": 62046,
+      "trakt_id": 96979,
+      "tvdb_id": 293302
+    },
+    "tvdb_293302": {
+      "title": "Scream Queens",
+      "year": 2015,
+      "tmdb_id": 62046,
+      "trakt_id": 96979,
+      "tvdb_id": 293302
+    },
+    "tmdb_206586": {
+      "title": "The Walking Dead: The Ones Who Live",
+      "year": 2024,
+      "tmdb_id": 206586,
+      "trakt_id": 197056,
+      "tvdb_id": 427202
+    },
+    "trakt_197056": {
+      "title": "The Walking Dead: The Ones Who Live",
+      "year": 2024,
+      "tmdb_id": 206586,
+      "trakt_id": 197056,
+      "tvdb_id": 427202
+    },
+    "tvdb_427202": {
+      "title": "The Walking Dead: The Ones Who Live",
+      "year": 2024,
+      "tmdb_id": 206586,
+      "trakt_id": 197056,
+      "tvdb_id": 427202
+    },
+    "tmdb_65820": {
+      "title": "Van Helsing",
+      "year": 2016,
+      "tmdb_id": 65820,
+      "trakt_id": 106307,
+      "tvdb_id": 308772
+    },
+    "trakt_106307": {
+      "title": "Van Helsing",
+      "year": 2016,
+      "tmdb_id": 65820,
+      "trakt_id": 106307,
+      "tvdb_id": 308772
+    },
+    "tvdb_308772": {
+      "title": "Van Helsing",
+      "year": 2016,
+      "tmdb_id": 65820,
+      "trakt_id": 106307,
+      "tvdb_id": 308772
+    },
+    "tmdb_86423": {
+      "title": "Locke & Key",
+      "year": 2020,
+      "tmdb_id": 86423,
+      "trakt_id": 145803,
+      "tvdb_id": 361594
+    },
+    "trakt_145803": {
+      "title": "Locke & Key",
+      "year": 2020,
+      "tmdb_id": 86423,
+      "trakt_id": 145803,
+      "tvdb_id": 361594
+    },
+    "tvdb_361594": {
+      "title": "Locke & Key",
+      "year": 2020,
+      "tmdb_id": 86423,
+      "trakt_id": 145803,
+      "tvdb_id": 361594
+    },
+    "tmdb_109958": {
+      "title": "The Haunting of Bly Manor",
+      "year": 2020,
+      "tmdb_id": 109958,
+      "trakt_id": 169891,
+      "tvdb_id": 345246
+    },
+    "trakt_169891": {
+      "title": "The Haunting of Bly Manor",
+      "year": 2020,
+      "tmdb_id": 109958,
+      "trakt_id": 169891,
+      "tvdb_id": 345246
+    },
+    "tmdb_83097": {
+      "title": "The Promised Neverland",
+      "year": 2019,
+      "tmdb_id": 83097,
+      "trakt_id": 131158,
+      "tvdb_id": 348002
+    },
+    "trakt_131158": {
+      "title": "The Promised Neverland",
+      "year": 2019,
+      "tmdb_id": 83097,
+      "trakt_id": 131158,
+      "tvdb_id": 348002
+    },
+    "tvdb_348002": {
+      "title": "The Promised Neverland",
+      "year": 2019,
+      "tmdb_id": 83097,
+      "trakt_id": 131158,
+      "tvdb_id": 348002
+    },
+    "tmdb_83659": {
+      "title": "Guillermo del Toro's Cabinet of Curiosities",
+      "year": 2022,
+      "tmdb_id": 83659,
+      "trakt_id": 190673,
+      "tvdb_id": 409559
+    },
+    "trakt_190673": {
+      "title": "Guillermo del Toro's Cabinet of Curiosities",
+      "year": 2022,
+      "tmdb_id": 83659,
+      "trakt_id": 190673,
+      "tvdb_id": 409559
+    },
+    "tvdb_409559": {
+      "title": "Guillermo del Toro's Cabinet of Curiosities",
+      "year": 2022,
+      "tmdb_id": 83659,
+      "trakt_id": 190673,
+      "tvdb_id": 409559
+    },
+    "tmdb_120462": {
+      "title": "THEM",
+      "year": 2021,
+      "tmdb_id": 120462,
+      "trakt_id": 155692,
+      "tvdb_id": 372974
+    },
+    "trakt_155692": {
+      "title": "THEM",
+      "year": 2021,
+      "tmdb_id": 120462,
+      "trakt_id": 155692,
+      "tvdb_id": 372974
+    },
+    "tvdb_372974": {
+      "title": "THEM",
+      "year": 2021,
+      "tmdb_id": 120462,
+      "trakt_id": 155692,
+      "tvdb_id": 372974
+    },
+    "tmdb_157004": {
+      "title": "Goosebumps",
+      "year": 2023,
+      "tmdb_id": 157004,
+      "trakt_id": 193196,
+      "tvdb_id": 415840
+    },
+    "trakt_193196": {
+      "title": "Goosebumps",
+      "year": 2023,
+      "tmdb_id": 157004,
+      "trakt_id": 193196,
+      "tvdb_id": 415840
+    },
+    "tvdb_415840": {
+      "title": "Goosebumps",
+      "year": 2023,
+      "tmdb_id": 157004,
+      "trakt_id": 193196,
+      "tvdb_id": 415840
+    },
+    "tmdb_136248": {
+      "title": "Tales of the Walking Dead",
+      "year": 2022,
+      "tmdb_id": 136248,
+      "trakt_id": 189651,
+      "tvdb_id": 411314
+    },
+    "trakt_189651": {
+      "title": "Tales of the Walking Dead",
+      "year": 2022,
+      "tmdb_id": 136248,
+      "trakt_id": 189651,
+      "tvdb_id": 411314
+    },
+    "tvdb_411314": {
+      "title": "Tales of the Walking Dead",
+      "year": 2022,
+      "tmdb_id": 136248,
+      "trakt_id": 189651,
+      "tvdb_id": 411314
+    },
+    "tmdb_300432": {
+      "title": "The Story of Bihyung: Enchanted Master of the Goblin",
+      "year": 2025,
+      "tmdb_id": 300432,
+      "trakt_id": 298539,
+      "tvdb_id": 468386
+    },
+    "trakt_298539": {
+      "title": "The Story of Bihyung: Enchanted Master of the Goblin",
+      "year": 2025,
+      "tmdb_id": 300432,
+      "trakt_id": 298539,
+      "tvdb_id": 468386
+    },
+    "tvdb_468386": {
+      "title": "The Story of Bihyung: Enchanted Master of the Goblin",
+      "year": 2025,
+      "tmdb_id": 300432,
+      "trakt_id": 298539,
+      "tvdb_id": 468386
+    },
+    "tmdb_72636": {
+      "title": "Made in Abyss",
+      "year": 2017,
+      "tmdb_id": 72636,
+      "trakt_id": 117856,
+      "tvdb_id": 326109
+    },
+    "trakt_117856": {
+      "title": "Made in Abyss",
+      "year": 2017,
+      "tmdb_id": 72636,
+      "trakt_id": 117856,
+      "tvdb_id": 326109
+    },
+    "tvdb_326109": {
+      "title": "Made in Abyss",
+      "year": 2017,
+      "tmdb_id": 72636,
+      "trakt_id": 117856,
+      "tvdb_id": 326109
+    },
+    "tmdb_86686": {
+      "title": "Creepshow",
+      "year": 2019,
+      "tmdb_id": 86686,
+      "trakt_id": 148560,
+      "tvdb_id": 364865
+    },
+    "trakt_148560": {
+      "title": "Creepshow",
+      "year": 2019,
+      "tmdb_id": 86686,
+      "trakt_id": 148560,
+      "tvdb_id": 364865
+    },
+    "tvdb_364865": {
+      "title": "Creepshow",
+      "year": 2019,
+      "tmdb_id": 86686,
+      "trakt_id": 148560,
+      "tvdb_id": 364865
+    },
+    "tmdb_67752": {
+      "title": "Channel Zero",
+      "year": 2016,
+      "tmdb_id": 67752,
+      "trakt_id": 110288,
+      "tvdb_id": 315178
+    },
+    "trakt_110288": {
+      "title": "Channel Zero",
+      "year": 2016,
+      "tmdb_id": 67752,
+      "trakt_id": 110288,
+      "tvdb_id": 315178
+    },
+    "tvdb_315178": {
+      "title": "Channel Zero",
+      "year": 2016,
+      "tmdb_id": 67752,
+      "trakt_id": 110288,
+      "tvdb_id": 315178
+    },
+    "tmdb_67135": {
+      "title": "The Exorcist",
+      "year": 2016,
+      "tmdb_id": 67135,
+      "trakt_id": 107748,
+      "tvdb_id": 311816
+    },
+    "trakt_107748": {
+      "title": "The Exorcist",
+      "year": 2016,
+      "tmdb_id": 67135,
+      "trakt_id": 107748,
+      "tvdb_id": 311816
+    },
+    "tvdb_311816": {
+      "title": "The Exorcist",
+      "year": 2016,
+      "tmdb_id": 67135,
+      "trakt_id": 107748,
+      "tvdb_id": 311816
+    },
+    "tmdb_83135": {
+      "title": "The Twilight Zone",
+      "year": 2019,
+      "tmdb_id": 83135,
+      "trakt_id": 143555,
+      "tvdb_id": 358915
+    },
+    "trakt_143555": {
+      "title": "The Twilight Zone",
+      "year": 2019,
+      "tmdb_id": 83135,
+      "trakt_id": 143555,
+      "tvdb_id": 358915
+    },
+    "tvdb_358915": {
+      "title": "The Twilight Zone",
+      "year": 2019,
+      "tmdb_id": 83135,
+      "trakt_id": 143555,
+      "tvdb_id": 358915
+    },
+    "tmdb_3470": {
+      "title": "Masters of Horror",
+      "year": 2005,
+      "tmdb_id": 3470,
+      "trakt_id": 3448,
+      "tvdb_id": 79066
+    },
+    "trakt_3448": {
+      "title": "Masters of Horror",
+      "year": 2005,
+      "tmdb_id": 3470,
+      "trakt_id": 3448,
+      "tvdb_id": 79066
+    },
+    "tvdb_79066": {
+      "title": "Masters of Horror",
+      "year": 2005,
+      "tmdb_id": 3470,
+      "trakt_id": 3448,
+      "tvdb_id": 79066
+    },
+    "tmdb_230915": {
+      "title": "Khemjira",
+      "year": 2025,
+      "tmdb_id": 230915,
+      "trakt_id": 216695,
+      "tvdb_id": 462780
+    },
+    "trakt_216695": {
+      "title": "Khemjira",
+      "year": 2025,
+      "tmdb_id": 230915,
+      "trakt_id": 216695,
+      "tvdb_id": 462780
+    },
+    "tvdb_462780": {
+      "title": "Khemjira",
+      "year": 2025,
+      "tmdb_id": 230915,
+      "trakt_id": 216695,
+      "tvdb_id": 462780
     }
   }
 }
